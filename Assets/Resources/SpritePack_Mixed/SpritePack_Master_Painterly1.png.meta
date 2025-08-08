@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: d0c22e6b89b28ab4a9fa3c6d53238a2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6591528579402690294
+    second: SpritePack_Master_Painterly1_0
+  - first:
+      213: -1317814676074878384
+    second: SpritePack_Master_Painterly1_1
+  - first:
+      213: 6990281138222475473
+    second: SpritePack_Master_Painterly1_2
+  - first:
+      213: 364217539259608985
+    second: SpritePack_Master_Painterly1_3
+  - first:
+      213: 3987293870156087885
+    second: SpritePack_Master_Painterly1_4
+  - first:
+      213: -5700590067664253197
+    second: SpritePack_Master_Painterly1_5
+  - first:
+      213: -5120122471681276240
+    second: SpritePack_Master_Painterly1_6
+  - first:
+      213: 4815925272907088365
+    second: SpritePack_Master_Painterly1_7
+  - first:
+      213: -7660503554870885871
+    second: SpritePack_Master_Painterly1_8
+  - first:
+      213: 1670729712964564853
+    second: SpritePack_Master_Painterly1_9
+  - first:
+      213: -8092415943345293273
+    second: SpritePack_Master_Painterly1_10
+  - first:
+      213: 4641041019971218630
+    second: SpritePack_Master_Painterly1_11
+  - first:
+      213: -6136501713304661606
+    second: SpritePack_Master_Painterly1_12
+  - first:
+      213: -988000204045941540
+    second: SpritePack_Master_Painterly1_13
+  - first:
+      213: -8927813407460911642
+    second: SpritePack_Master_Painterly1_14
+  - first:
+      213: 5871743772365528284
+    second: SpritePack_Master_Painterly1_15
+  - first:
+      213: -6297931964098795810
+    second: SpritePack_Master_Painterly1_16
+  - first:
+      213: 5082587573155766388
+    second: SpritePack_Master_Painterly1_17
+  - first:
+      213: 7074318185035133393
+    second: SpritePack_Master_Painterly1_18
+  - first:
+      213: -1578006339671943051
+    second: SpritePack_Master_Painterly1_19
+  - first:
+      213: -161691471046603254
+    second: SpritePack_Master_Painterly1_20
+  - first:
+      213: -3703996442770348619
+    second: SpritePack_Master_Painterly1_21
+  - first:
+      213: -8820853621513244706
+    second: SpritePack_Master_Painterly1_22
+  - first:
+      213: 5456393607419400682
+    second: SpritePack_Master_Painterly1_23
+  - first:
+      213: 3045560976972864037
+    second: SpritePack_Master_Painterly1_24
+  - first:
+      213: -5965581940923485191
+    second: SpritePack_Master_Painterly1_25
+  - first:
+      213: 7244739905530406726
+    second: SpritePack_Master_Painterly1_26
+  - first:
+      213: 6837919028189398345
+    second: SpritePack_Master_Painterly1_27
+  - first:
+      213: -4660697869286654116
+    second: SpritePack_Master_Painterly1_28
+  - first:
+      213: 576721137359579373
+    second: SpritePack_Master_Painterly1_29
+  - first:
+      213: 7915547870274672213
+    second: SpritePack_Master_Painterly1_30
+  - first:
+      213: 5138187357012279910
+    second: SpritePack_Master_Painterly1_31
+  - first:
+      213: 7175164424285508356
+    second: SpritePack_Master_Painterly1_32
+  - first:
+      213: 4563472694485897192
+    second: SpritePack_Master_Painterly1_33
+  - first:
+      213: -4079188572881350196
+    second: SpritePack_Master_Painterly1_34
+  - first:
+      213: 8409765944397417556
+    second: SpritePack_Master_Painterly1_35
+  - first:
+      213: 4812777084798436732
+    second: SpritePack_Master_Painterly1_36
+  - first:
+      213: 2174313277136467597
+    second: SpritePack_Master_Painterly1_37
+  - first:
+      213: 5183768522919311018
+    second: SpritePack_Master_Painterly1_38
+  - first:
+      213: -6452558434604577733
+    second: SpritePack_Master_Painterly1_39
+  - first:
+      213: -4749818487192098986
+    second: SpritePack_Master_Painterly1_40
+  - first:
+      213: 5175365456494227890
+    second: SpritePack_Master_Painterly1_41
+  - first:
+      213: -8704054204113510070
+    second: SpritePack_Master_Painterly1_42
+  - first:
+      213: 7133708331781575976
+    second: SpritePack_Master_Painterly1_43
+  - first:
+      213: -3781833427526574509
+    second: SpritePack_Master_Painterly1_44
+  - first:
+      213: -6497912121998826171
+    second: SpritePack_Master_Painterly1_45
+  - first:
+      213: -2684116341752400812
+    second: SpritePack_Master_Painterly1_46
+  - first:
+      213: 6859075444018193730
+    second: SpritePack_Master_Painterly1_47
+  - first:
+      213: -3108459551095039462
+    second: SpritePack_Master_Painterly1_48
+  - first:
+      213: -5856427986075730170
+    second: SpritePack_Master_Painterly1_49
+  - first:
+      213: -3110680279547691696
+    second: SpritePack_Master_Painterly1_50
+  - first:
+      213: -7756169871602184756
+    second: SpritePack_Master_Painterly1_51
+  - first:
+      213: 6261667046553441529
+    second: SpritePack_Master_Painterly1_52
+  - first:
+      213: -6909956608599592317
+    second: SpritePack_Master_Painterly1_53
+  - first:
+      213: -4281160530430888535
+    second: SpritePack_Master_Painterly1_54
+  - first:
+      213: -8078352881488091156
+    second: SpritePack_Master_Painterly1_55
+  - first:
+      213: 7630193487140008105
+    second: SpritePack_Master_Painterly1_56
+  - first:
+      213: -7923325174694624487
+    second: SpritePack_Master_Painterly1_57
+  - first:
+      213: -3777721463215619580
+    second: SpritePack_Master_Painterly1_58
+  - first:
+      213: 3317555645258195583
+    second: SpritePack_Master_Painterly1_59
+  - first:
+      213: -179380602818554209
+    second: SpritePack_Master_Painterly1_60
+  - first:
+      213: 7331644322901747321
+    second: SpritePack_Master_Painterly1_61
+  - first:
+      213: 7874008062028839457
+    second: SpritePack_Master_Painterly1_62
+  - first:
+      213: 4065380537885596983
+    second: SpritePack_Master_Painterly1_63
+  - first:
+      213: 2636537801039291055
+    second: SpritePack_Master_Painterly1_64
+  - first:
+      213: -9097944914417005848
+    second: SpritePack_Master_Painterly1_65
+  - first:
+      213: 157619529870936238
+    second: SpritePack_Master_Painterly1_66
+  - first:
+      213: 9164135262133773487
+    second: SpritePack_Master_Painterly1_67
+  - first:
+      213: 2822904595409252641
+    second: SpritePack_Master_Painterly1_68
+  - first:
+      213: -1783856059602830254
+    second: SpritePack_Master_Painterly1_69
+  - first:
+      213: 969181651154401807
+    second: SpritePack_Master_Painterly1_70
+  - first:
+      213: -9065440241683702068
+    second: SpritePack_Master_Painterly1_71
+  - first:
+      213: 7492957808218095831
+    second: SpritePack_Master_Painterly1_72
+  - first:
+      213: -5776154793063349110
+    second: SpritePack_Master_Painterly1_73
+  - first:
+      213: 3389639921089156197
+    second: SpritePack_Master_Painterly1_74
+  - first:
+      213: -3886780361459800230
+    second: SpritePack_Master_Painterly1_75
+  - first:
+      213: 7908035465490060103
+    second: SpritePack_Master_Painterly1_76
+  - first:
+      213: 7722582069026198172
+    second: SpritePack_Master_Painterly1_77
+  - first:
+      213: 4635886363526791298
+    second: SpritePack_Master_Painterly1_78
+  - first:
+      213: 4480589719772659139
+    second: SpritePack_Master_Painterly1_79
+  - first:
+      213: 3504763106949123710
+    second: SpritePack_Master_Painterly1_80
+  - first:
+      213: 742998451791303775
+    second: SpritePack_Master_Painterly1_81
+  - first:
+      213: -3609144969790903640
+    second: SpritePack_Master_Painterly1_82
+  - first:
+      213: 4683616298864818385
+    second: SpritePack_Master_Painterly1_83
+  - first:
+      213: -759700468434129902
+    second: SpritePack_Master_Painterly1_84
+  - first:
+      213: -3785373677577831475
+    second: SpritePack_Master_Painterly1_85
+  - first:
+      213: 8198098793109667007
+    second: SpritePack_Master_Painterly1_86
+  - first:
+      213: 4490912033869387107
+    second: SpritePack_Master_Painterly1_87
+  - first:
+      213: -2221404365611986726
+    second: SpritePack_Master_Painterly1_88
+  - first:
+      213: 2934601069150628682
+    second: SpritePack_Master_Painterly1_89
+  - first:
+      213: 7287641995749442424
+    second: SpritePack_Master_Painterly1_90
+  - first:
+      213: 987214492059327086
+    second: SpritePack_Master_Painterly1_91
+  - first:
+      213: 4250278569753127810
+    second: SpritePack_Master_Painterly1_92
+  - first:
+      213: 376513611648410445
+    second: SpritePack_Master_Painterly1_93
+  - first:
+      213: -2233358283651801505
+    second: SpritePack_Master_Painterly1_94
+  - first:
+      213: -3383117143810456072
+    second: SpritePack_Master_Painterly1_95
+  - first:
+      213: 3927860856834949182
+    second: SpritePack_Master_Painterly1_96
+  - first:
+      213: 5132064285400417521
+    second: SpritePack_Master_Painterly1_97
+  - first:
+      213: 2433102967353909653
+    second: SpritePack_Master_Painterly1_98
+  - first:
+      213: -2443549502044536822
+    second: SpritePack_Master_Painterly1_99
+  - first:
+      213: -5120444512975958889
+    second: SpritePack_Master_Painterly1_100
+  - first:
+      213: 6426246697520579968
+    second: SpritePack_Master_Painterly1_101
+  - first:
+      213: -1024220871466045803
+    second: SpritePack_Master_Painterly1_102
+  - first:
+      213: 7008477072974490056
+    second: SpritePack_Master_Painterly1_103
+  - first:
+      213: 2684782920776497124
+    second: SpritePack_Master_Painterly1_104
+  - first:
+      213: -8479382227618067172
+    second: SpritePack_Master_Painterly1_105
+  - first:
+      213: -4873984359187958229
+    second: SpritePack_Master_Painterly1_106
+  - first:
+      213: -566189987462256090
+    second: SpritePack_Master_Painterly1_107
+  - first:
+      213: 3090565921115464214
+    second: SpritePack_Master_Painterly1_108
+  - first:
+      213: 5034384510663910272
+    second: SpritePack_Master_Painterly1_109
+  - first:
+      213: 840634253961606958
+    second: SpritePack_Master_Painterly1_110
+  - first:
+      213: 5431043439747294631
+    second: SpritePack_Master_Painterly1_111
+  - first:
+      213: -301169286605189654
+    second: SpritePack_Master_Painterly1_112
+  - first:
+      213: 8749606816479993311
+    second: SpritePack_Master_Painterly1_113
+  - first:
+      213: 7424437952223914448
+    second: SpritePack_Master_Painterly1_114
+  - first:
+      213: -5795697486933531825
+    second: SpritePack_Master_Painterly1_115
+  - first:
+      213: 1460267716163711568
+    second: SpritePack_Master_Painterly1_116
+  - first:
+      213: -8093557723404437793
+    second: SpritePack_Master_Painterly1_117
+  - first:
+      213: -8871601813250249574
+    second: SpritePack_Master_Painterly1_118
+  - first:
+      213: -1408200933377993949
+    second: SpritePack_Master_Painterly1_119
+  - first:
+      213: -5664010474117493455
+    second: SpritePack_Master_Painterly1_120
+  - first:
+      213: -8908501500386773778
+    second: SpritePack_Master_Painterly1_121
+  - first:
+      213: -2031586683190244497
+    second: SpritePack_Master_Painterly1_122
+  - first:
+      213: -4227132878147091958
+    second: SpritePack_Master_Painterly1_123
+  - first:
+      213: 7659674538775971741
+    second: SpritePack_Master_Painterly1_124
+  - first:
+      213: -1553389729274084757
+    second: SpritePack_Master_Painterly1_125
+  - first:
+      213: -2025598967265543936
+    second: SpritePack_Master_Painterly1_126
+  - first:
+      213: 819405946140627666
+    second: SpritePack_Master_Painterly1_127
+  - first:
+      213: 545388471253644548
+    second: SpritePack_Master_Painterly1_128
+  - first:
+      213: 7444094555976446845
+    second: SpritePack_Master_Painterly1_129
+  - first:
+      213: -2669306486716299284
+    second: SpritePack_Master_Painterly1_130
+  - first:
+      213: -8453286671549620854
+    second: SpritePack_Master_Painterly1_131
+  - first:
+      213: -2862384072411489671
+    second: SpritePack_Master_Painterly1_132
+  - first:
+      213: -3525808659526206957
+    second: SpritePack_Master_Painterly1_133
+  - first:
+      213: -4839925199357213218
+    second: SpritePack_Master_Painterly1_134
+  - first:
+      213: 3275238978554553567
+    second: SpritePack_Master_Painterly1_135
+  - first:
+      213: -885320125434998735
+    second: SpritePack_Master_Painterly1_136
+  - first:
+      213: -1406716096422924515
+    second: SpritePack_Master_Painterly1_137
+  - first:
+      213: 7505366638763771680
+    second: SpritePack_Master_Painterly1_138
+  - first:
+      213: 6136660525457630596
+    second: SpritePack_Master_Painterly1_139
+  - first:
+      213: 785186651702471371
+    second: SpritePack_Master_Painterly1_140
+  - first:
+      213: 3024735418311238427
+    second: SpritePack_Master_Painterly1_141
+  - first:
+      213: -1718944275220205321
+    second: SpritePack_Master_Painterly1_142
+  - first:
+      213: -5235109552934402239
+    second: SpritePack_Master_Painterly1_143
+  - first:
+      213: -7341210871779819265
+    second: SpritePack_Master_Painterly1_144
+  - first:
+      213: -6365727892179170325
+    second: SpritePack_Master_Painterly1_145
+  - first:
+      213: 6123752943954553143
+    second: SpritePack_Master_Painterly1_146
+  - first:
+      213: -2331951927611270036
+    second: SpritePack_Master_Painterly1_147
+  - first:
+      213: 3826966376943605043
+    second: SpritePack_Master_Painterly1_148
+  - first:
+      213: 3690601823900198921
+    second: SpritePack_Master_Painterly1_149
+  - first:
+      213: -2492292089594067644
+    second: SpritePack_Master_Painterly1_150
+  - first:
+      213: -5480270896400130840
+    second: SpritePack_Master_Painterly1_151
+  - first:
+      213: -1324175564654689177
+    second: SpritePack_Master_Painterly1_152
+  - first:
+      213: -2607385541059854882
+    second: SpritePack_Master_Painterly1_153
+  - first:
+      213: 7962302936595638329
+    second: SpritePack_Master_Painterly1_154
+  - first:
+      213: -6276756650787087151
+    second: SpritePack_Master_Painterly1_155
+  - first:
+      213: -4409396631967433838
+    second: SpritePack_Master_Painterly1_156
+  - first:
+      213: -374946776917659847
+    second: SpritePack_Master_Painterly1_157
+  - first:
+      213: -6471641866569406050
+    second: SpritePack_Master_Painterly1_158
+  - first:
+      213: 6820777348547124528
+    second: SpritePack_Master_Painterly1_159
+  - first:
+      213: 6465501925130028826
+    second: SpritePack_Master_Painterly1_160
+  - first:
+      213: 4956919811395059986
+    second: SpritePack_Master_Painterly1_161
+  - first:
+      213: -430813522138175192
+    second: SpritePack_Master_Painterly1_162
+  - first:
+      213: -2857632682164594009
+    second: SpritePack_Master_Painterly1_163
+  - first:
+      213: 6310721718654564675
+    second: SpritePack_Master_Painterly1_164
+  - first:
+      213: 5847239638345649889
+    second: SpritePack_Master_Painterly1_165
+  - first:
+      213: 5112928252712011824
+    second: SpritePack_Master_Painterly1_166
+  - first:
+      213: 4231944714038551759
+    second: SpritePack_Master_Painterly1_167
+  - first:
+      213: 7886597035892403823
+    second: SpritePack_Master_Painterly1_168
+  - first:
+      213: 6228272430599585508
+    second: SpritePack_Master_Painterly1_169
+  - first:
+      213: -6979425448452238619
+    second: SpritePack_Master_Painterly1_170
+  - first:
+      213: -5878469288820246337
+    second: SpritePack_Master_Painterly1_171
+  - first:
+      213: 6088654817602038923
+    second: SpritePack_Master_Painterly1_172
+  - first:
+      213: -10988427048716286
+    second: SpritePack_Master_Painterly1_173
+  - first:
+      213: 2205364058273737263
+    second: SpritePack_Master_Painterly1_174
+  - first:
+      213: 1833969429112189254
+    second: SpritePack_Master_Painterly1_175
+  - first:
+      213: 2644342336106910137
+    second: SpritePack_Master_Painterly1_176
+  - first:
+      213: -7924850438006968452
+    second: SpritePack_Master_Painterly1_177
+  - first:
+      213: -5688908865997546993
+    second: SpritePack_Master_Painterly1_178
+  - first:
+      213: -2622608559162818007
+    second: SpritePack_Master_Painterly1_179
+  - first:
+      213: 3074509739618179919
+    second: SpritePack_Master_Painterly1_180
+  - first:
+      213: -2697786773400435725
+    second: SpritePack_Master_Painterly1_181
+  - first:
+      213: 3046458443745632650
+    second: SpritePack_Master_Painterly1_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_0
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1556
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011ed13eaf2684a0800000000000000
+      internalID: -6591528579402690294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1555
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa2c0c88e26bde0800000000000000
+      internalID: -1317814676074878384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1554
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82ddbb8a7720160800000000000000
+      internalID: 6990281138222475473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1553
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f29881ce5fd0500800000000000000
+      internalID: 364217539259608985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1550
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d420fb936a6b55730800000000000000
+      internalID: 3987293870156087885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1550
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe80c6598f63e0b0800000000000000
+      internalID: -5700590067664253197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_6
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1554
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b641f45dbba1f8b0800000000000000
+      internalID: -5120122471681276240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1548
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10474158a95d240800000000000000
+      internalID: 4815925272907088365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1553
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112cd4b9a9c60b590800000000000000
+      internalID: -7660503554870885871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_9
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1557
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57771f072df9f2710800000000000000
+      internalID: 1670729712964564853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1551
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72832323396f1bf80800000000000000
+      internalID: -8092415943345293273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_11
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1552
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca667e73a486040800000000000000
+      internalID: 4641041019971218630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_12
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1559
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9156ee4434c6daa0800000000000000
+      internalID: -6136501713304661606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_13
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1564
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd404df8c0be942f0800000000000000
+      internalID: -988000204045941540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1552
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5925be1090a1480800000000000000
+      internalID: -8927813407460911642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1460
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc95f3e9df9c7150800000000000000
+      internalID: 5871743772365528284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1452
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6205c1f304998a0800000000000000
+      internalID: -6297931964098795810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1458
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470a3c5187af88640800000000000000
+      internalID: 5082587573155766388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1453
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1fa1f68e60d2260800000000000000
+      internalID: 7074318185035133393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1453
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5781a8e389bc91ae0800000000000000
+      internalID: -1578006339671943051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1453
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8e09b67e81cdf0800000000000000
+      internalID: -161691471046603254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1444
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5ec532cd2c89cc0800000000000000
+      internalID: -3703996442770348619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1433
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf2cf9bd58069580800000000000000
+      internalID: -8820853621513244706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1438
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae112f4a31109bb40800000000000000
+      internalID: 5456393607419400682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1338
+        width: 53
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a524e8291044a20800000000000000
+      internalID: 3045560976972864037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_25
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1497
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f335cce4def53da0800000000000000
+      internalID: -5965581940923485191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_26
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1483
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647ac3f4f8c7a8460800000000000000
+      internalID: 7244739905530406726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_27
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1480
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450d16902b25ee50800000000000000
+      internalID: 6837919028189398345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1451
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fbfb73bffd15fb0800000000000000
+      internalID: -4660697869286654116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1451
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e6ce91dce00800800000000000000
+      internalID: 576721137359579373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_30
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1434
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556525289dca9dd60800000000000000
+      internalID: 7915547870274672213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_31
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1432
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ce1c8d228e4740800000000000000
+      internalID: 5138187357012279910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_32
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1433
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403de8a370e439360800000000000000
+      internalID: 7175164424285508356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_33
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1421
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc601cc36b45f30800000000000000
+      internalID: 4563472694485897192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_34
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1430
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1139dfa9fc367c0800000000000000
+      internalID: -4079188572881350196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_35
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1429
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4cffc19d75b470800000000000000
+      internalID: 8409765944397417556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_36
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1398
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c750d8a624b6ac240800000000000000
+      internalID: 4812777084798436732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1377
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867222d766bc2e10800000000000000
+      internalID: 2174313277136467597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1380
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6f47eb10270f740800000000000000
+      internalID: 5183768522919311018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1377
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c81f47a48e376a0800000000000000
+      internalID: -6452558434604577733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1380
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657e4536041451eb0800000000000000
+      internalID: -4749818487192098986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1376
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b17a21667792d740800000000000000
+      internalID: 5175365456494227890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1371
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a11241dcf43780800000000000000
+      internalID: -8704054204113510070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_43
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1368
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825d5178ee5000360800000000000000
+      internalID: 7133708331781575976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_44
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1363
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9490e88a348bc0800000000000000
+      internalID: -3781833427526574509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1367
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5452e8a3a57c2d5a0800000000000000
+      internalID: -6497912121998826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_46
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1361
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f602886a10cad0800000000000000
+      internalID: -2684116341752400812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_47
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1355
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2452f4086c4503f50800000000000000
+      internalID: 6859075444018193730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_48
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1365
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a5f42f1888cd4d0800000000000000
+      internalID: -3108459551095039462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_49
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1358
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fbc4d76c9c9bea0800000000000000
+      internalID: -5856427986075730170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_50
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1358
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3fbf44c4a4d4d0800000000000000
+      internalID: -3110680279547691696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_51
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1345
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd8091889c8c5490800000000000000
+      internalID: -7756169871602184756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_52
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1375
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4569bc009e5e650800000000000000
+      internalID: 6261667046553441529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_53
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1373
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382fe033317ea10a0800000000000000
+      internalID: -6909956608599592317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1306
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a57e3d1e234694c0800000000000000
+      internalID: -4281160530430888535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1306
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce726a0fadce3ef80800000000000000
+      internalID: -8078352881488091156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_56
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1262
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ba70dc84e3e960800000000000000
+      internalID: 7630193487140008105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1256
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913ca62bbb1ba0290800000000000000
+      internalID: -7923325174694624487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_58
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1261
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020aac2856d29bc0800000000000000
+      internalID: -3777721463215619580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_59
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1239
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72e43e38435a0e20800000000000000
+      internalID: 3317555645258195583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_60
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1296
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f969769ca46b28df0800000000000000
+      internalID: -179380602818554209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_61
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1317
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976611ebaab3fb560800000000000000
+      internalID: 7331644322901747321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1257
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a7ac73d98164d60800000000000000
+      internalID: 7874008062028839457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1257
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d15755f022b6830800000000000000
+      internalID: 4065380537885596983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1258
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa226db392dd69420800000000000000
+      internalID: 2636537801039291055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_65
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1257
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea4a16ad4b9db180800000000000000
+      internalID: -9097944914417005848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_66
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1236
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea80f97902aff2200800000000000000
+      internalID: 157619529870936238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_67
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1230
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46d1d977c8d2f70800000000000000
+      internalID: 9164135262133773487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_68
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1225
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121bf2ce5c8fc2720800000000000000
+      internalID: 2822904595409252641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_69
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1247
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf1f47d587e37e0800000000000000
+      internalID: -1783856059602830254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_70
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1217
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a72e7a399337d00800000000000000
+      internalID: 969181651154401807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_71
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1243
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce59e58126113280800000000000000
+      internalID: -9065440241683702068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_72
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1186
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d044db5d655cf760800000000000000
+      internalID: 7492957808218095831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1188
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840acfa1d9f6dfa0800000000000000
+      internalID: -5776154793063349110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1185
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56490059c8b6a0f20800000000000000
+      internalID: 3389639921089156197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1182
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a576933bad16f0ac0800000000000000
+      internalID: -3886780361459800230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_76
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1182
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743d9b77b5cfebd60800000000000000
+      internalID: 7908035465490060103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1178
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c929b1dc97f1c2b60800000000000000
+      internalID: 7722582069026198172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_78
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1182
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280871de51af55040800000000000000
+      internalID: 4635886363526791298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_79
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1181
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf0576c904e2e30800000000000000
+      internalID: 4480589719772659139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_80
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1186
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec89b0a7b63a030800000000000000
+      internalID: 3504763106949123710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_81
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1149
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f549fa3c729af4a00800000000000000
+      internalID: 742998451791303775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_82
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1141
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa9b4a5cdb9edc0800000000000000
+      internalID: -3609144969790903640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_83
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1139
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8311e753c8ff040800000000000000
+      internalID: 4683616298864818385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_84
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1142
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c2943f2700575f0800000000000000
+      internalID: -759700468434129902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_85
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1143
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbfbdd22b6a77bc0800000000000000
+      internalID: -3785373677577831475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_86
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1153
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc3cdcba6f75c170800000000000000
+      internalID: 8198098793109667007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_87
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1155
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365df4073bce25e30800000000000000
+      internalID: 4490912033869387107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_88
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1183
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0123dbf7cfb21e0800000000000000
+      internalID: -2221404365611986726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_89
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1156
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b643ccf1cc9b820800000000000000
+      internalID: 2934601069150628682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1138
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734dd698c7e22560800000000000000
+      internalID: 7287641995749442424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_91
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1139
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a505c995a43bd00800000000000000
+      internalID: 987214492059327086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_92
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1138
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b279a17d50cfa30800000000000000
+      internalID: 4250278569753127810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_93
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1142
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43276b8225a93500800000000000000
+      internalID: 376513611648410445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_94
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1143
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e12ce49748101e0800000000000000
+      internalID: -2233358283651801505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_95
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1148
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c4a9d1e0cc01d0800000000000000
+      internalID: -3383117143810456072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_96
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1098
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300fca73a0928630800000000000000
+      internalID: 3927860856834949182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_97
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1090
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4c2c7d641c83740800000000000000
+      internalID: 5132064285400417521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_98
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1100
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5912417f14e14c120800000000000000
+      internalID: 2433102967353909653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_99
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1043
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008d83aca4c61ed0800000000000000
+      internalID: -2443549502044536822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_100
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1056
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c48ff38d680f8b0800000000000000
+      internalID: -5120444512975958889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_101
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1058
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085cdbcd25d9e2950800000000000000
+      internalID: 6426246697520579968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_102
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1061
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ea9b04b8c39c1f0800000000000000
+      internalID: -1024220871466045803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_103
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1074
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c92d1fe3cc134160800000000000000
+      internalID: 7008477072974490056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_104
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1064
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e73be387d3424520800000000000000
+      internalID: 2684782920776497124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_105
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1059
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d80182ace235a80800000000000000
+      internalID: -8479382227618067172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_106
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1005
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26bacd7c012c5cb0800000000000000
+      internalID: -4873984359187958229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 959
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aede9c43d7428f0800000000000000
+      internalID: -566189987462256090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_108
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 957
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e30ba455e3ea20800000000000000
+      internalID: 3090565921115464214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 958
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e9d40a0abdd540800000000000000
+      internalID: 5034384510663910272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 955
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27386d66688aab00800000000000000
+      internalID: 840634253961606958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 955
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56ad9cb31fe5b40800000000000000
+      internalID: 5431043439747294631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_112
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 955
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedc3a6212802dbf0800000000000000
+      internalID: -301169286605189654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_113
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 941
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd50acca09dc6970800000000000000
+      internalID: 8749606816479993311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_114
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 951
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92c3f2bf6e80760800000000000000
+      internalID: 7424437952223914448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_115
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 964
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e3b1b7db819fa0800000000000000
+      internalID: -5795697486933531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_116
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 961
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052b8e240c9e34410800000000000000
+      internalID: 1460267716163711568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_117
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 978
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fb5fc128edaf80800000000000000
+      internalID: -8093557723404437793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_118
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 918
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ce184972db1e480800000000000000
+      internalID: -8871601813250249574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_119
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 822
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32391a946b0157ce0800000000000000
+      internalID: -1408200933377993949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 832
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d8226ab746561b0800000000000000
+      internalID: -5664010474117493455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 838
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4796ca515ae5480800000000000000
+      internalID: -8908501500386773778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_122
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 867
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b080aecaa5ec3e0800000000000000
+      internalID: -2031586683190244497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 871
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020bab2b053655c0800000000000000
+      internalID: -4227132878147091958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_124
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 875
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9788da0961ac4a60800000000000000
+      internalID: 7659674538775971741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_125
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 817
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c0ec7540417ae0800000000000000
+      internalID: -1553389729274084757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_126
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 778
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093dbaa870a3e3e0800000000000000
+      internalID: -2025598967265543936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_127
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 778
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21e8add5d1f5b00800000000000000
+      internalID: 819405946140627666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_128
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 786
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405baadcceb919700800000000000000
+      internalID: 545388471253644548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_129
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 778
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d733563ee8cbe4760800000000000000
+      internalID: 7444094555976446845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_130
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 821
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce701a694e7b4fad0800000000000000
+      internalID: -2669306486716299284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_131
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 792
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9db54f84efaa80800000000000000
+      internalID: -8453286671549620854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_132
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 734
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a5d290ad4c648d0800000000000000
+      internalID: -2862384072411489671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 725
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab1f664bfc11fc0800000000000000
+      internalID: -3525808659526206957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_134
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 741
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50ad89ca125dcb0800000000000000
+      internalID: -4839925199357213218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_135
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 707
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e14f7f7cf37d20800000000000000
+      internalID: 3275238978554553567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 705
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13051fa5906b6b3f0800000000000000
+      internalID: -885320125434998735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_137
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 691
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f23e4d9275a7ce0800000000000000
+      internalID: -1406716096422924515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_138
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 711
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027059c513b682860800000000000000
+      internalID: 7505366638763771680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_139
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 726
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48560170c3cc92550800000000000000
+      internalID: 6136660525457630596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_140
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 723
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaaa11891b85ea00800000000000000
+      internalID: 785186651702471371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_141
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 720
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13ebf356d40af920800000000000000
+      internalID: 3024735418311238427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_142
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 633
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0fecef9451528e0800000000000000
+      internalID: -1718944275220205321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 641
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147471139972957b0800000000000000
+      internalID: -5235109552934402239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_144
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 645
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff004568b97ce1a90800000000000000
+      internalID: -7341210871779819265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_145
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 686
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb4dd9853468a7a0800000000000000
+      internalID: -6365727892179170325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_146
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 647
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e9a48bd0fbf450800000000000000
+      internalID: 6123752943954553143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_147
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 648
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c5179b31e33afd0800000000000000
+      internalID: -2331951927611270036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_148
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 654
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3355619c4ad1c1530800000000000000
+      internalID: 3826966376943605043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_149
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 651
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908eaf02ec6a73330800000000000000
+      internalID: 3690601823900198921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_150
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 653
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ca3b9c89996dd0800000000000000
+      internalID: -2492292089594067644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_151
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 623
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec982bc7aa22f3b0800000000000000
+      internalID: -5480270896400130840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_152
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 616
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7644188f6559f9de0800000000000000
+      internalID: -1324175564654689177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_153
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 583
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd33a83aa4b0dbd0800000000000000
+      internalID: -2607385541059854882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_154
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 579
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93825d1b558cf7e60800000000000000
+      internalID: 7962302936595638329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_155
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 580
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcd340f41b74e8a0800000000000000
+      internalID: -6276756650787087151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_156
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 571
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf6cd002daec2c0800000000000000
+      internalID: -4409396631967433838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_157
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 571
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f252894ebebcaf0800000000000000
+      internalID: -374946776917659847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_158
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 565
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99a595b20c1036a0800000000000000
+      internalID: -6471641866569406050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_159
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 547
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9e284cd448ae50800000000000000
+      internalID: 6820777348547124528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_160
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 530
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17caf5ceb31ab950800000000000000
+      internalID: 6465501925130028826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_161
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 537
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118c4a3e448ac440800000000000000
+      internalID: 4956919811395059986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_162
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 466
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e4885261750af0800000000000000
+      internalID: -430813522138175192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_163
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 475
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa58094736a758d0800000000000000
+      internalID: -2857632682164594009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_164
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 478
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497fbca7ff249750800000000000000
+      internalID: 6310721718654564675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_165
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 479
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0d289871952150800000000000000
+      internalID: 5847239638345649889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_166
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 480
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03845f80825c4f640800000000000000
+      internalID: 5112928252712011824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_167
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 480
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42c5dab43eaba30800000000000000
+      internalID: 4231944714038551759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_168
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 489
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ee30b1832d27d60800000000000000
+      internalID: 7886597035892403823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_169
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 483
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee3f3ed6c44f6650800000000000000
+      internalID: 6228272430599585508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_170
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 467
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2dea08889142f90800000000000000
+      internalID: -6979425448452238619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_171
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 427
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb873d8c35b7b6ea0800000000000000
+      internalID: -5878469288820246337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_172
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 422
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce32b2c4f3f7450800000000000000
+      internalID: 6088654817602038923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_173
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 418
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208fe157516f8dff0800000000000000
+      internalID: -10988427048716286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_174
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 417
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ae1dd2de60b9e10800000000000000
+      internalID: 2205364058273737263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_175
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 420
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641782f9a71937910800000000000000
+      internalID: 1833969429112189254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_176
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 423
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1dd28285792b420800000000000000
+      internalID: 2644342336106910137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_177
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 420
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fee78a386450290800000000000000
+      internalID: -7924850438006968452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_178
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 424
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a55aa078fec01b0800000000000000
+      internalID: -5688908865997546993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_179
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 427
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922833e196f9a9bd0800000000000000
+      internalID: -2622608559162818007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_180
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 427
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b9b68915adaaa20800000000000000
+      internalID: 3074509739618179919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_181
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 421
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f348bb19398f8ad0800000000000000
+      internalID: -2697786773400435725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_Painterly1_182
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 429
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81a27250d1374a20800000000000000
+      internalID: 3046458443745632650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpritePack_Master_Painterly1_0: -6591528579402690294
+      SpritePack_Master_Painterly1_1: -1317814676074878384
+      SpritePack_Master_Painterly1_10: -8092415943345293273
+      SpritePack_Master_Painterly1_100: -5120444512975958889
+      SpritePack_Master_Painterly1_101: 6426246697520579968
+      SpritePack_Master_Painterly1_102: -1024220871466045803
+      SpritePack_Master_Painterly1_103: 7008477072974490056
+      SpritePack_Master_Painterly1_104: 2684782920776497124
+      SpritePack_Master_Painterly1_105: -8479382227618067172
+      SpritePack_Master_Painterly1_106: -4873984359187958229
+      SpritePack_Master_Painterly1_107: -566189987462256090
+      SpritePack_Master_Painterly1_108: 3090565921115464214
+      SpritePack_Master_Painterly1_109: 5034384510663910272
+      SpritePack_Master_Painterly1_11: 4641041019971218630
+      SpritePack_Master_Painterly1_110: 840634253961606958
+      SpritePack_Master_Painterly1_111: 5431043439747294631
+      SpritePack_Master_Painterly1_112: -301169286605189654
+      SpritePack_Master_Painterly1_113: 8749606816479993311
+      SpritePack_Master_Painterly1_114: 7424437952223914448
+      SpritePack_Master_Painterly1_115: -5795697486933531825
+      SpritePack_Master_Painterly1_116: 1460267716163711568
+      SpritePack_Master_Painterly1_117: -8093557723404437793
+      SpritePack_Master_Painterly1_118: -8871601813250249574
+      SpritePack_Master_Painterly1_119: -1408200933377993949
+      SpritePack_Master_Painterly1_12: -6136501713304661606
+      SpritePack_Master_Painterly1_120: -5664010474117493455
+      SpritePack_Master_Painterly1_121: -8908501500386773778
+      SpritePack_Master_Painterly1_122: -2031586683190244497
+      SpritePack_Master_Painterly1_123: -4227132878147091958
+      SpritePack_Master_Painterly1_124: 7659674538775971741
+      SpritePack_Master_Painterly1_125: -1553389729274084757
+      SpritePack_Master_Painterly1_126: -2025598967265543936
+      SpritePack_Master_Painterly1_127: 819405946140627666
+      SpritePack_Master_Painterly1_128: 545388471253644548
+      SpritePack_Master_Painterly1_129: 7444094555976446845
+      SpritePack_Master_Painterly1_13: -988000204045941540
+      SpritePack_Master_Painterly1_130: -2669306486716299284
+      SpritePack_Master_Painterly1_131: -8453286671549620854
+      SpritePack_Master_Painterly1_132: -2862384072411489671
+      SpritePack_Master_Painterly1_133: -3525808659526206957
+      SpritePack_Master_Painterly1_134: -4839925199357213218
+      SpritePack_Master_Painterly1_135: 3275238978554553567
+      SpritePack_Master_Painterly1_136: -885320125434998735
+      SpritePack_Master_Painterly1_137: -1406716096422924515
+      SpritePack_Master_Painterly1_138: 7505366638763771680
+      SpritePack_Master_Painterly1_139: 6136660525457630596
+      SpritePack_Master_Painterly1_14: -8927813407460911642
+      SpritePack_Master_Painterly1_140: 785186651702471371
+      SpritePack_Master_Painterly1_141: 3024735418311238427
+      SpritePack_Master_Painterly1_142: -1718944275220205321
+      SpritePack_Master_Painterly1_143: -5235109552934402239
+      SpritePack_Master_Painterly1_144: -7341210871779819265
+      SpritePack_Master_Painterly1_145: -6365727892179170325
+      SpritePack_Master_Painterly1_146: 6123752943954553143
+      SpritePack_Master_Painterly1_147: -2331951927611270036
+      SpritePack_Master_Painterly1_148: 3826966376943605043
+      SpritePack_Master_Painterly1_149: 3690601823900198921
+      SpritePack_Master_Painterly1_15: 5871743772365528284
+      SpritePack_Master_Painterly1_150: -2492292089594067644
+      SpritePack_Master_Painterly1_151: -5480270896400130840
+      SpritePack_Master_Painterly1_152: -1324175564654689177
+      SpritePack_Master_Painterly1_153: -2607385541059854882
+      SpritePack_Master_Painterly1_154: 7962302936595638329
+      SpritePack_Master_Painterly1_155: -6276756650787087151
+      SpritePack_Master_Painterly1_156: -4409396631967433838
+      SpritePack_Master_Painterly1_157: -374946776917659847
+      SpritePack_Master_Painterly1_158: -6471641866569406050
+      SpritePack_Master_Painterly1_159: 6820777348547124528
+      SpritePack_Master_Painterly1_16: -6297931964098795810
+      SpritePack_Master_Painterly1_160: 6465501925130028826
+      SpritePack_Master_Painterly1_161: 4956919811395059986
+      SpritePack_Master_Painterly1_162: -430813522138175192
+      SpritePack_Master_Painterly1_163: -2857632682164594009
+      SpritePack_Master_Painterly1_164: 6310721718654564675
+      SpritePack_Master_Painterly1_165: 5847239638345649889
+      SpritePack_Master_Painterly1_166: 5112928252712011824
+      SpritePack_Master_Painterly1_167: 4231944714038551759
+      SpritePack_Master_Painterly1_168: 7886597035892403823
+      SpritePack_Master_Painterly1_169: 6228272430599585508
+      SpritePack_Master_Painterly1_17: 5082587573155766388
+      SpritePack_Master_Painterly1_170: -6979425448452238619
+      SpritePack_Master_Painterly1_171: -5878469288820246337
+      SpritePack_Master_Painterly1_172: 6088654817602038923
+      SpritePack_Master_Painterly1_173: -10988427048716286
+      SpritePack_Master_Painterly1_174: 2205364058273737263
+      SpritePack_Master_Painterly1_175: 1833969429112189254
+      SpritePack_Master_Painterly1_176: 2644342336106910137
+      SpritePack_Master_Painterly1_177: -7924850438006968452
+      SpritePack_Master_Painterly1_178: -5688908865997546993
+      SpritePack_Master_Painterly1_179: -2622608559162818007
+      SpritePack_Master_Painterly1_18: 7074318185035133393
+      SpritePack_Master_Painterly1_180: 3074509739618179919
+      SpritePack_Master_Painterly1_181: -2697786773400435725
+      SpritePack_Master_Painterly1_182: 3046458443745632650
+      SpritePack_Master_Painterly1_19: -1578006339671943051
+      SpritePack_Master_Painterly1_2: 6990281138222475473
+      SpritePack_Master_Painterly1_20: -161691471046603254
+      SpritePack_Master_Painterly1_21: -3703996442770348619
+      SpritePack_Master_Painterly1_22: -8820853621513244706
+      SpritePack_Master_Painterly1_23: 5456393607419400682
+      SpritePack_Master_Painterly1_24: 3045560976972864037
+      SpritePack_Master_Painterly1_25: -5965581940923485191
+      SpritePack_Master_Painterly1_26: 7244739905530406726
+      SpritePack_Master_Painterly1_27: 6837919028189398345
+      SpritePack_Master_Painterly1_28: -4660697869286654116
+      SpritePack_Master_Painterly1_29: 576721137359579373
+      SpritePack_Master_Painterly1_3: 364217539259608985
+      SpritePack_Master_Painterly1_30: 7915547870274672213
+      SpritePack_Master_Painterly1_31: 5138187357012279910
+      SpritePack_Master_Painterly1_32: 7175164424285508356
+      SpritePack_Master_Painterly1_33: 4563472694485897192
+      SpritePack_Master_Painterly1_34: -4079188572881350196
+      SpritePack_Master_Painterly1_35: 8409765944397417556
+      SpritePack_Master_Painterly1_36: 4812777084798436732
+      SpritePack_Master_Painterly1_37: 2174313277136467597
+      SpritePack_Master_Painterly1_38: 5183768522919311018
+      SpritePack_Master_Painterly1_39: -6452558434604577733
+      SpritePack_Master_Painterly1_4: 3987293870156087885
+      SpritePack_Master_Painterly1_40: -4749818487192098986
+      SpritePack_Master_Painterly1_41: 5175365456494227890
+      SpritePack_Master_Painterly1_42: -8704054204113510070
+      SpritePack_Master_Painterly1_43: 7133708331781575976
+      SpritePack_Master_Painterly1_44: -3781833427526574509
+      SpritePack_Master_Painterly1_45: -6497912121998826171
+      SpritePack_Master_Painterly1_46: -2684116341752400812
+      SpritePack_Master_Painterly1_47: 6859075444018193730
+      SpritePack_Master_Painterly1_48: -3108459551095039462
+      SpritePack_Master_Painterly1_49: -5856427986075730170
+      SpritePack_Master_Painterly1_5: -5700590067664253197
+      SpritePack_Master_Painterly1_50: -3110680279547691696
+      SpritePack_Master_Painterly1_51: -7756169871602184756
+      SpritePack_Master_Painterly1_52: 6261667046553441529
+      SpritePack_Master_Painterly1_53: -6909956608599592317
+      SpritePack_Master_Painterly1_54: -4281160530430888535
+      SpritePack_Master_Painterly1_55: -8078352881488091156
+      SpritePack_Master_Painterly1_56: 7630193487140008105
+      SpritePack_Master_Painterly1_57: -7923325174694624487
+      SpritePack_Master_Painterly1_58: -3777721463215619580
+      SpritePack_Master_Painterly1_59: 3317555645258195583
+      SpritePack_Master_Painterly1_6: -5120122471681276240
+      SpritePack_Master_Painterly1_60: -179380602818554209
+      SpritePack_Master_Painterly1_61: 7331644322901747321
+      SpritePack_Master_Painterly1_62: 7874008062028839457
+      SpritePack_Master_Painterly1_63: 4065380537885596983
+      SpritePack_Master_Painterly1_64: 2636537801039291055
+      SpritePack_Master_Painterly1_65: -9097944914417005848
+      SpritePack_Master_Painterly1_66: 157619529870936238
+      SpritePack_Master_Painterly1_67: 9164135262133773487
+      SpritePack_Master_Painterly1_68: 2822904595409252641
+      SpritePack_Master_Painterly1_69: -1783856059602830254
+      SpritePack_Master_Painterly1_7: 4815925272907088365
+      SpritePack_Master_Painterly1_70: 969181651154401807
+      SpritePack_Master_Painterly1_71: -9065440241683702068
+      SpritePack_Master_Painterly1_72: 7492957808218095831
+      SpritePack_Master_Painterly1_73: -5776154793063349110
+      SpritePack_Master_Painterly1_74: 3389639921089156197
+      SpritePack_Master_Painterly1_75: -3886780361459800230
+      SpritePack_Master_Painterly1_76: 7908035465490060103
+      SpritePack_Master_Painterly1_77: 7722582069026198172
+      SpritePack_Master_Painterly1_78: 4635886363526791298
+      SpritePack_Master_Painterly1_79: 4480589719772659139
+      SpritePack_Master_Painterly1_8: -7660503554870885871
+      SpritePack_Master_Painterly1_80: 3504763106949123710
+      SpritePack_Master_Painterly1_81: 742998451791303775
+      SpritePack_Master_Painterly1_82: -3609144969790903640
+      SpritePack_Master_Painterly1_83: 4683616298864818385
+      SpritePack_Master_Painterly1_84: -759700468434129902
+      SpritePack_Master_Painterly1_85: -3785373677577831475
+      SpritePack_Master_Painterly1_86: 8198098793109667007
+      SpritePack_Master_Painterly1_87: 4490912033869387107
+      SpritePack_Master_Painterly1_88: -2221404365611986726
+      SpritePack_Master_Painterly1_89: 2934601069150628682
+      SpritePack_Master_Painterly1_9: 1670729712964564853
+      SpritePack_Master_Painterly1_90: 7287641995749442424
+      SpritePack_Master_Painterly1_91: 987214492059327086
+      SpritePack_Master_Painterly1_92: 4250278569753127810
+      SpritePack_Master_Painterly1_93: 376513611648410445
+      SpritePack_Master_Painterly1_94: -2233358283651801505
+      SpritePack_Master_Painterly1_95: -3383117143810456072
+      SpritePack_Master_Painterly1_96: 3927860856834949182
+      SpritePack_Master_Painterly1_97: 5132064285400417521
+      SpritePack_Master_Painterly1_98: 2433102967353909653
+      SpritePack_Master_Painterly1_99: -2443549502044536822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

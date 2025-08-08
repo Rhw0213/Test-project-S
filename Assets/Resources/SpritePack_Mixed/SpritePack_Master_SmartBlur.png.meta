@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: effe89428d9f37049b6ae63bf843a43b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7006876411901296149
+    second: SpritePack_Master_SmartBlur_0
+  - first:
+      213: 720346477307918071
+    second: SpritePack_Master_SmartBlur_1
+  - first:
+      213: -8341118243853215245
+    second: SpritePack_Master_SmartBlur_2
+  - first:
+      213: 6298661776059454660
+    second: SpritePack_Master_SmartBlur_3
+  - first:
+      213: 7205617393979661564
+    second: SpritePack_Master_SmartBlur_4
+  - first:
+      213: -8357555972092388077
+    second: SpritePack_Master_SmartBlur_5
+  - first:
+      213: -2042251735422558453
+    second: SpritePack_Master_SmartBlur_6
+  - first:
+      213: -7063161405401691678
+    second: SpritePack_Master_SmartBlur_7
+  - first:
+      213: 656588722134434625
+    second: SpritePack_Master_SmartBlur_8
+  - first:
+      213: -3881480233259845149
+    second: SpritePack_Master_SmartBlur_9
+  - first:
+      213: -1134986896715187362
+    second: SpritePack_Master_SmartBlur_10
+  - first:
+      213: -2771988805825276261
+    second: SpritePack_Master_SmartBlur_11
+  - first:
+      213: -728437276149168172
+    second: SpritePack_Master_SmartBlur_12
+  - first:
+      213: 8846206843549359136
+    second: SpritePack_Master_SmartBlur_13
+  - first:
+      213: -4644792087809610655
+    second: SpritePack_Master_SmartBlur_14
+  - first:
+      213: -7848215355025010457
+    second: SpritePack_Master_SmartBlur_15
+  - first:
+      213: 8876240882286021727
+    second: SpritePack_Master_SmartBlur_16
+  - first:
+      213: -7437451315309661612
+    second: SpritePack_Master_SmartBlur_17
+  - first:
+      213: 8184159634185238388
+    second: SpritePack_Master_SmartBlur_18
+  - first:
+      213: -1698787458828548777
+    second: SpritePack_Master_SmartBlur_19
+  - first:
+      213: -1534284854257304366
+    second: SpritePack_Master_SmartBlur_20
+  - first:
+      213: 6237402991613026778
+    second: SpritePack_Master_SmartBlur_21
+  - first:
+      213: 700819874894192862
+    second: SpritePack_Master_SmartBlur_22
+  - first:
+      213: 63848387125570428
+    second: SpritePack_Master_SmartBlur_23
+  - first:
+      213: 8357009295816771008
+    second: SpritePack_Master_SmartBlur_24
+  - first:
+      213: -963525243533635392
+    second: SpritePack_Master_SmartBlur_25
+  - first:
+      213: 8837667166374123066
+    second: SpritePack_Master_SmartBlur_26
+  - first:
+      213: -7602884023377642255
+    second: SpritePack_Master_SmartBlur_27
+  - first:
+      213: -8499211074419464928
+    second: SpritePack_Master_SmartBlur_28
+  - first:
+      213: -2297029979225512338
+    second: SpritePack_Master_SmartBlur_29
+  - first:
+      213: 4066343946345564146
+    second: SpritePack_Master_SmartBlur_30
+  - first:
+      213: -6493385847337308187
+    second: SpritePack_Master_SmartBlur_31
+  - first:
+      213: -663800854909782338
+    second: SpritePack_Master_SmartBlur_32
+  - first:
+      213: -2123663520310468149
+    second: SpritePack_Master_SmartBlur_33
+  - first:
+      213: 6875480791271483886
+    second: SpritePack_Master_SmartBlur_34
+  - first:
+      213: -7766465995762322833
+    second: SpritePack_Master_SmartBlur_35
+  - first:
+      213: 6174935484037551264
+    second: SpritePack_Master_SmartBlur_36
+  - first:
+      213: 7802971715519096481
+    second: SpritePack_Master_SmartBlur_37
+  - first:
+      213: 3779510805502128170
+    second: SpritePack_Master_SmartBlur_38
+  - first:
+      213: 7858690942743296630
+    second: SpritePack_Master_SmartBlur_39
+  - first:
+      213: 4185657989725439504
+    second: SpritePack_Master_SmartBlur_40
+  - first:
+      213: -6011846341423910777
+    second: SpritePack_Master_SmartBlur_41
+  - first:
+      213: 2259463968016714440
+    second: SpritePack_Master_SmartBlur_42
+  - first:
+      213: -5643476409547134318
+    second: SpritePack_Master_SmartBlur_43
+  - first:
+      213: -4379053585284727354
+    second: SpritePack_Master_SmartBlur_44
+  - first:
+      213: -390464831925281069
+    second: SpritePack_Master_SmartBlur_45
+  - first:
+      213: 289912588971056318
+    second: SpritePack_Master_SmartBlur_46
+  - first:
+      213: 1756237610852013053
+    second: SpritePack_Master_SmartBlur_47
+  - first:
+      213: 3537901166051509446
+    second: SpritePack_Master_SmartBlur_48
+  - first:
+      213: -8777220688705236402
+    second: SpritePack_Master_SmartBlur_49
+  - first:
+      213: 1301867672841251926
+    second: SpritePack_Master_SmartBlur_50
+  - first:
+      213: 5848125969241832307
+    second: SpritePack_Master_SmartBlur_51
+  - first:
+      213: 7371373752754019791
+    second: SpritePack_Master_SmartBlur_52
+  - first:
+      213: 7740655028190930587
+    second: SpritePack_Master_SmartBlur_53
+  - first:
+      213: 4738894903491525813
+    second: SpritePack_Master_SmartBlur_54
+  - first:
+      213: -5627549049897112433
+    second: SpritePack_Master_SmartBlur_55
+  - first:
+      213: -3369099496091970886
+    second: SpritePack_Master_SmartBlur_56
+  - first:
+      213: -6957545957673975863
+    second: SpritePack_Master_SmartBlur_57
+  - first:
+      213: -427602602963603780
+    second: SpritePack_Master_SmartBlur_58
+  - first:
+      213: -7361574780149079835
+    second: SpritePack_Master_SmartBlur_59
+  - first:
+      213: -893232238452277248
+    second: SpritePack_Master_SmartBlur_60
+  - first:
+      213: -2698476431332581203
+    second: SpritePack_Master_SmartBlur_61
+  - first:
+      213: -4278918802345423420
+    second: SpritePack_Master_SmartBlur_62
+  - first:
+      213: 1541660295465122993
+    second: SpritePack_Master_SmartBlur_63
+  - first:
+      213: 1505721835072357826
+    second: SpritePack_Master_SmartBlur_64
+  - first:
+      213: -4833826041232520257
+    second: SpritePack_Master_SmartBlur_65
+  - first:
+      213: -3520425855378281597
+    second: SpritePack_Master_SmartBlur_66
+  - first:
+      213: 5012757528451622246
+    second: SpritePack_Master_SmartBlur_67
+  - first:
+      213: -1767478049795714308
+    second: SpritePack_Master_SmartBlur_68
+  - first:
+      213: 6154730649755262239
+    second: SpritePack_Master_SmartBlur_69
+  - first:
+      213: 786598772206246425
+    second: SpritePack_Master_SmartBlur_70
+  - first:
+      213: 6367705828312648733
+    second: SpritePack_Master_SmartBlur_71
+  - first:
+      213: -5639967577450277161
+    second: SpritePack_Master_SmartBlur_72
+  - first:
+      213: -826513736037167074
+    second: SpritePack_Master_SmartBlur_73
+  - first:
+      213: 4279815222173167058
+    second: SpritePack_Master_SmartBlur_74
+  - first:
+      213: -1166595843905483615
+    second: SpritePack_Master_SmartBlur_75
+  - first:
+      213: 726454155072249640
+    second: SpritePack_Master_SmartBlur_76
+  - first:
+      213: 727785763677816623
+    second: SpritePack_Master_SmartBlur_77
+  - first:
+      213: 5399206318734247760
+    second: SpritePack_Master_SmartBlur_78
+  - first:
+      213: -4744470610612261103
+    second: SpritePack_Master_SmartBlur_79
+  - first:
+      213: 1617685398727516023
+    second: SpritePack_Master_SmartBlur_80
+  - first:
+      213: -2036120254823354012
+    second: SpritePack_Master_SmartBlur_81
+  - first:
+      213: -5902756276801380735
+    second: SpritePack_Master_SmartBlur_82
+  - first:
+      213: 2277975504270621637
+    second: SpritePack_Master_SmartBlur_83
+  - first:
+      213: -2615546153426348203
+    second: SpritePack_Master_SmartBlur_84
+  - first:
+      213: -1083526631664454999
+    second: SpritePack_Master_SmartBlur_85
+  - first:
+      213: -8478291817054980478
+    second: SpritePack_Master_SmartBlur_86
+  - first:
+      213: 2922670845853930703
+    second: SpritePack_Master_SmartBlur_87
+  - first:
+      213: -7933320079865188976
+    second: SpritePack_Master_SmartBlur_88
+  - first:
+      213: -2532273286590293866
+    second: SpritePack_Master_SmartBlur_89
+  - first:
+      213: 6744762455349043380
+    second: SpritePack_Master_SmartBlur_90
+  - first:
+      213: 2370473290242396773
+    second: SpritePack_Master_SmartBlur_91
+  - first:
+      213: 5569148938192692621
+    second: SpritePack_Master_SmartBlur_92
+  - first:
+      213: 5104360543864552390
+    second: SpritePack_Master_SmartBlur_93
+  - first:
+      213: -5811555281010160864
+    second: SpritePack_Master_SmartBlur_94
+  - first:
+      213: -5783512593635820430
+    second: SpritePack_Master_SmartBlur_95
+  - first:
+      213: 6979638943226112916
+    second: SpritePack_Master_SmartBlur_96
+  - first:
+      213: -1533935835912067983
+    second: SpritePack_Master_SmartBlur_97
+  - first:
+      213: 2440681627448135704
+    second: SpritePack_Master_SmartBlur_98
+  - first:
+      213: -2870035718023037783
+    second: SpritePack_Master_SmartBlur_99
+  - first:
+      213: 5841498788298134180
+    second: SpritePack_Master_SmartBlur_100
+  - first:
+      213: -2319446720540706964
+    second: SpritePack_Master_SmartBlur_101
+  - first:
+      213: -4814970416069588125
+    second: SpritePack_Master_SmartBlur_102
+  - first:
+      213: 800333020994257911
+    second: SpritePack_Master_SmartBlur_103
+  - first:
+      213: -8104992610755996713
+    second: SpritePack_Master_SmartBlur_104
+  - first:
+      213: 3904959556528939413
+    second: SpritePack_Master_SmartBlur_105
+  - first:
+      213: -3984835960477692922
+    second: SpritePack_Master_SmartBlur_106
+  - first:
+      213: 3455516172794044361
+    second: SpritePack_Master_SmartBlur_107
+  - first:
+      213: -2136436054965735169
+    second: SpritePack_Master_SmartBlur_108
+  - first:
+      213: 6588224108345125025
+    second: SpritePack_Master_SmartBlur_109
+  - first:
+      213: -3484751606495007718
+    second: SpritePack_Master_SmartBlur_110
+  - first:
+      213: 2298991042959637208
+    second: SpritePack_Master_SmartBlur_111
+  - first:
+      213: 6514016960460921454
+    second: SpritePack_Master_SmartBlur_112
+  - first:
+      213: -157880816164220607
+    second: SpritePack_Master_SmartBlur_113
+  - first:
+      213: -71254425664318482
+    second: SpritePack_Master_SmartBlur_114
+  - first:
+      213: 5282081283579444110
+    second: SpritePack_Master_SmartBlur_115
+  - first:
+      213: -6216931211743155343
+    second: SpritePack_Master_SmartBlur_116
+  - first:
+      213: -2185687547680931164
+    second: SpritePack_Master_SmartBlur_117
+  - first:
+      213: 5591178690130953167
+    second: SpritePack_Master_SmartBlur_118
+  - first:
+      213: 7421017939709494523
+    second: SpritePack_Master_SmartBlur_119
+  - first:
+      213: 8561659006460653971
+    second: SpritePack_Master_SmartBlur_120
+  - first:
+      213: -3523718540584777463
+    second: SpritePack_Master_SmartBlur_121
+  - first:
+      213: -1854393128079866059
+    second: SpritePack_Master_SmartBlur_122
+  - first:
+      213: 811036159128610961
+    second: SpritePack_Master_SmartBlur_123
+  - first:
+      213: -5528639929405672448
+    second: SpritePack_Master_SmartBlur_124
+  - first:
+      213: 8199739739535663065
+    second: SpritePack_Master_SmartBlur_125
+  - first:
+      213: -5370995313676721661
+    second: SpritePack_Master_SmartBlur_126
+  - first:
+      213: 7089248741080916406
+    second: SpritePack_Master_SmartBlur_127
+  - first:
+      213: -5974494287327871163
+    second: SpritePack_Master_SmartBlur_128
+  - first:
+      213: 3075820644746701639
+    second: SpritePack_Master_SmartBlur_129
+  - first:
+      213: -3365949126025992317
+    second: SpritePack_Master_SmartBlur_130
+  - first:
+      213: -1840208098082234566
+    second: SpritePack_Master_SmartBlur_131
+  - first:
+      213: -7615444711504086309
+    second: SpritePack_Master_SmartBlur_132
+  - first:
+      213: -2570724321219839861
+    second: SpritePack_Master_SmartBlur_133
+  - first:
+      213: -1156049603657892486
+    second: SpritePack_Master_SmartBlur_134
+  - first:
+      213: 6570169292483327865
+    second: SpritePack_Master_SmartBlur_135
+  - first:
+      213: -5473511451203860222
+    second: SpritePack_Master_SmartBlur_136
+  - first:
+      213: 7615838448503904447
+    second: SpritePack_Master_SmartBlur_137
+  - first:
+      213: 7114816396279260624
+    second: SpritePack_Master_SmartBlur_138
+  - first:
+      213: -8606239434649679398
+    second: SpritePack_Master_SmartBlur_139
+  - first:
+      213: -8564201967695910363
+    second: SpritePack_Master_SmartBlur_140
+  - first:
+      213: -7725392613052668580
+    second: SpritePack_Master_SmartBlur_141
+  - first:
+      213: 1913154621978087850
+    second: SpritePack_Master_SmartBlur_142
+  - first:
+      213: -5681950409493713756
+    second: SpritePack_Master_SmartBlur_143
+  - first:
+      213: -988289405193313424
+    second: SpritePack_Master_SmartBlur_144
+  - first:
+      213: 5522545739540381433
+    second: SpritePack_Master_SmartBlur_145
+  - first:
+      213: -6000436941513142643
+    second: SpritePack_Master_SmartBlur_146
+  - first:
+      213: -103539946066772411
+    second: SpritePack_Master_SmartBlur_147
+  - first:
+      213: 1896057113719549243
+    second: SpritePack_Master_SmartBlur_148
+  - first:
+      213: 4834884796971763271
+    second: SpritePack_Master_SmartBlur_149
+  - first:
+      213: 1947433261015739872
+    second: SpritePack_Master_SmartBlur_150
+  - first:
+      213: 1098061957651398700
+    second: SpritePack_Master_SmartBlur_151
+  - first:
+      213: 2505889233176781450
+    second: SpritePack_Master_SmartBlur_152
+  - first:
+      213: 6801724199519922278
+    second: SpritePack_Master_SmartBlur_153
+  - first:
+      213: -2219735928541523295
+    second: SpritePack_Master_SmartBlur_154
+  - first:
+      213: 8441144507681054313
+    second: SpritePack_Master_SmartBlur_155
+  - first:
+      213: -7628470990484615103
+    second: SpritePack_Master_SmartBlur_156
+  - first:
+      213: 1825862327916073230
+    second: SpritePack_Master_SmartBlur_157
+  - first:
+      213: -3529373496496998506
+    second: SpritePack_Master_SmartBlur_158
+  - first:
+      213: -220433500914348675
+    second: SpritePack_Master_SmartBlur_159
+  - first:
+      213: -308548557693618923
+    second: SpritePack_Master_SmartBlur_160
+  - first:
+      213: -2885425717625769689
+    second: SpritePack_Master_SmartBlur_161
+  - first:
+      213: 7287269251752972879
+    second: SpritePack_Master_SmartBlur_162
+  - first:
+      213: -380160119886146633
+    second: SpritePack_Master_SmartBlur_163
+  - first:
+      213: -7356152804186673004
+    second: SpritePack_Master_SmartBlur_164
+  - first:
+      213: 6328071504314342727
+    second: SpritePack_Master_SmartBlur_165
+  - first:
+      213: 5394312937803236935
+    second: SpritePack_Master_SmartBlur_166
+  - first:
+      213: 3836545785280669847
+    second: SpritePack_Master_SmartBlur_167
+  - first:
+      213: 5507570744816906779
+    second: SpritePack_Master_SmartBlur_168
+  - first:
+      213: 634992774925649089
+    second: SpritePack_Master_SmartBlur_169
+  - first:
+      213: -7559934105052701825
+    second: SpritePack_Master_SmartBlur_170
+  - first:
+      213: -2535451684105384637
+    second: SpritePack_Master_SmartBlur_171
+  - first:
+      213: 3472286878241129875
+    second: SpritePack_Master_SmartBlur_172
+  - first:
+      213: -1346326969571328811
+    second: SpritePack_Master_SmartBlur_173
+  - first:
+      213: 6558753305048972760
+    second: SpritePack_Master_SmartBlur_174
+  - first:
+      213: 2140869936762834015
+    second: SpritePack_Master_SmartBlur_175
+  - first:
+      213: 615652986047999757
+    second: SpritePack_Master_SmartBlur_176
+  - first:
+      213: -1467334900697409804
+    second: SpritePack_Master_SmartBlur_177
+  - first:
+      213: -7608864708196715237
+    second: SpritePack_Master_SmartBlur_178
+  - first:
+      213: -5146520981754078221
+    second: SpritePack_Master_SmartBlur_179
+  - first:
+      213: -5118044262259873728
+    second: SpritePack_Master_SmartBlur_180
+  - first:
+      213: 8781898606307344431
+    second: SpritePack_Master_SmartBlur_181
+  - first:
+      213: -6989585486237947868
+    second: SpritePack_Master_SmartBlur_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_0
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1556
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eb07cf8fc6d3160800000000000000
+      internalID: 7006876411901296149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1555
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67427fd4f2ff900800000000000000
+      internalID: 720346477307918071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1554
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9599d76256e3c80800000000000000
+      internalID: -8341118243853215245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1553
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4da5a7387596750800000000000000
+      internalID: 6298661776059454660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1550
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc9883c7de7ff360800000000000000
+      internalID: 7205617393979661564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1550
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1df4af1ff30c80800000000000000
+      internalID: -8357555972092388077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_6
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1554
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f9630fdd678a3e0800000000000000
+      internalID: -2042251735422558453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1548
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e988cfbf1c9afd90800000000000000
+      internalID: -7063161405401691678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1553
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143c95ac6fbac1900800000000000000
+      internalID: 656588722134434625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_9
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1557
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b8d5fa46322ac0800000000000000
+      internalID: -3881480233259845149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1551
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b719c4e67bf30f0800000000000000
+      internalID: -1134986896715187362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_11
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1552
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96dc632edae789d0800000000000000
+      internalID: -2771988805825276261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_12
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1559
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c9f1282214e5f0800000000000000
+      internalID: -728437276149168172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_13
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1564
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9367414a04ca70800000000000000
+      internalID: 8846206843549359136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1552
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c209e84326a8fb0800000000000000
+      internalID: -4644792087809610655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1460
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0d7fa57b9851390800000000000000
+      internalID: -7848215355025010457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1452
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c4579dd0ebe2b70800000000000000
+      internalID: 8876240882286021727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1458
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b4bc1f6dd8c890800000000000000
+      internalID: -7437451315309661612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1453
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b3b463d9f39170800000000000000
+      internalID: 8184159634185238388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1453
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755c2a78ec1bc68e0800000000000000
+      internalID: -1698787458828548777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1453
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc3bb5dd0025bae0800000000000000
+      internalID: -1534284854257304366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1444
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1ad0449f4bf8650800000000000000
+      internalID: 6237402991613026778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1433
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed02a9e86ffc9b900800000000000000
+      internalID: 700819874894192862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1438
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7be91215c5d2e000800000000000000
+      internalID: 63848387125570428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1338
+        width: 53
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5cbcd5daf0af370800000000000000
+      internalID: 8357009295816771008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_25
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1497
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c05e0f55eed0a2f0800000000000000
+      internalID: -963525243533635392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_26
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1483
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36dcdeb673b5aa70800000000000000
+      internalID: 8837667166374123066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_27
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1480
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc351633412d7690800000000000000
+      internalID: -7602884023377642255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1451
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025692efe8cbc0a80800000000000000
+      internalID: -8499211074419464928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1451
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6627d1776f4f10e0800000000000000
+      internalID: -2297029979225512338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_30
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1434
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7cc78564e8e6830800000000000000
+      internalID: 4066343946345564146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_31
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1432
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef29eba9fbd2e5a0800000000000000
+      internalID: -6493385847337308187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_32
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1433
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67081b3a4b9c6f0800000000000000
+      internalID: -663800854909782338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_33
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1421
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc16079a74b3782e0800000000000000
+      internalID: -2123663520310468149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_34
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1430
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee922cf0a5d9a6f50800000000000000
+      internalID: 6875480791271483886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_35
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1429
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62bf6a4358f73490800000000000000
+      internalID: -7766465995762322833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_36
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1398
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a453054b17c1b550800000000000000
+      internalID: 6174935484037551264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1377
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6afefee69b94c60800000000000000
+      internalID: 7802971715519096481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1380
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2074ba8d05837430800000000000000
+      internalID: 3779510805502128170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1377
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a3bc976cdaf0d60800000000000000
+      internalID: 7858690942743296630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1380
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164cdcd3c1761a30800000000000000
+      internalID: 4185657989725439504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1376
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803237ca91a19ca0800000000000000
+      internalID: -6011846341423910777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1371
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca4e6cf18a3b5f10800000000000000
+      internalID: 2259463968016714440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_43
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1368
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a65ae1b185ea1b0800000000000000
+      internalID: -5643476409547134318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_44
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1363
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf3b427f97a33c0800000000000000
+      internalID: -4379053585284727354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1367
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de9fcbdd4ac49af0800000000000000
+      internalID: -390464831925281069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_46
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1361
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9881b6f9f50400800000000000000
+      internalID: 289912588971056318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_47
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1355
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3d3085dc86f5810800000000000000
+      internalID: 1756237610852013053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_48
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1365
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c0fcad56291130800000000000000
+      internalID: 3537901166051509446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_49
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1358
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d38e894c013680800000000000000
+      internalID: -8777220688705236402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_50
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1358
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c644830c9211210800000000000000
+      internalID: 1301867672841251926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_51
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1345
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b75669597b82150800000000000000
+      internalID: 5848125969241832307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_52
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1375
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd9a877f516c4660800000000000000
+      internalID: 7371373752754019791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_53
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1373
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9669248cb45c6b60800000000000000
+      internalID: 7740655028190930587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1306
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc75869ecfe3c140800000000000000
+      internalID: 4738894903491525813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1306
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cabc484fde6e1b0800000000000000
+      internalID: -5627549049897112433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_56
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1262
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab29d7acbdd8e31d0800000000000000
+      internalID: -3369099496091970886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1256
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf336c60d4d17f90800000000000000
+      internalID: -6957545957673975863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_58
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1261
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe6259b2b9d01af0800000000000000
+      internalID: -427602602963603780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_59
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1239
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06db1adbe66d990800000000000000
+      internalID: -7361574780149079835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_60
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1296
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000002df20a9a93f0800000000000000
+      internalID: -893232238452277248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_61
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1317
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da068ab9bf51d8ad0800000000000000
+      internalID: -2698476431332581203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1257
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd067b150a3e94c0800000000000000
+      internalID: -4278918802345423420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1257
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb583eed3156510800000000000000
+      internalID: 1541660295465122993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1258
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58906080665e410800000000000000
+      internalID: 1505721835072357826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_65
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1257
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb8d4283dccaecb0800000000000000
+      internalID: -4833826041232520257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_66
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1236
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba318265fe42fc0800000000000000
+      internalID: -3520425855378281597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_67
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1230
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6652684d964e09540800000000000000
+      internalID: 5012757528451622246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_68
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1225
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf250a50418a877e0800000000000000
+      internalID: -1767478049795714308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_69
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1247
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d1fd2baeef96550800000000000000
+      internalID: 6154730649755262239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_70
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1217
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9c1e6a6f8aea00800000000000000
+      internalID: 786598772206246425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_71
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1243
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c82ca96b2ae5850800000000000000
+      internalID: 6367705828312648733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_72
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1186
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d61b51ce5fcab1b0800000000000000
+      internalID: -5639967577450277161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1188
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e101689d222a784f0800000000000000
+      internalID: -826513736037167074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1185
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde0f5e445f46b30800000000000000
+      internalID: 4279815222173167058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1182
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0197c24b6fcfe0800000000000000
+      internalID: -1166595843905483615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_76
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1182
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f10b28432e41a00800000000000000
+      internalID: 726454155072249640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1178
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274a9ccb4d991a00800000000000000
+      internalID: 727785763677816623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_78
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1182
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05703396a85ddea40800000000000000
+      internalID: 5399206318734247760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_79
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1181
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fec2fed11482eb0800000000000000
+      internalID: -4744470610612261103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_80
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1186
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f5d7d9c4c237610800000000000000
+      internalID: 1617685398727516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_81
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1149
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b6438a6f3eb3e0800000000000000
+      internalID: -2036120254823354012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_82
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1141
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18edb8db072351ea0800000000000000
+      internalID: -5902756276801380735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_83
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1139
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7713e6aefc9f10800000000000000
+      internalID: 2277975504270621637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_84
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1142
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557126791a6b3bbd0800000000000000
+      internalID: -2615546153426348203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_85
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1143
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f6fee44a86f0f0800000000000000
+      internalID: -1083526631664454999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_86
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1153
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2863656238e075a80800000000000000
+      internalID: -8478291817054980478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_87
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1155
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4938a36a96f8820800000000000000
+      internalID: 2922670845853930703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_88
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1183
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d692e7b6f27e190800000000000000
+      internalID: -7933320079865188976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_89
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1156
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6981396ccde8bdcd0800000000000000
+      internalID: -2532273286590293866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1138
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a875c7b53a9d50800000000000000
+      internalID: 6744762455349043380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_91
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1139
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562137ee5ec95e020800000000000000
+      internalID: 2370473290242396773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_92
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1138
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d852832e377994d40800000000000000
+      internalID: 5569148938192692621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_93
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1142
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf09eded456d640800000000000000
+      internalID: 5104360543864552390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_94
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1143
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b08da4345395fa0800000000000000
+      internalID: -5811555281010160864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_95
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1148
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb65e30f5dcbfa0800000000000000
+      internalID: -5783512593635820430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_96
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1098
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba97f93a8acd060800000000000000
+      internalID: 6979638943226112916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_97
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1090
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17428300c7d56bae0800000000000000
+      internalID: -1533935835912067983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_98
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1100
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8105ed5420b0fd120800000000000000
+      internalID: 2440681627448135704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_99
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1043
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acbd8678b59b28d0800000000000000
+      internalID: -2870035718023037783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_100
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1056
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a29268c23c211150800000000000000
+      internalID: 5841498788298134180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_101
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1058
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67f9b22f7bafcfd0800000000000000
+      internalID: -2319446720540706964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_102
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1061
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b482adae9cd2db0800000000000000
+      internalID: -4814970416069588125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_103
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1074
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c06a64aa5b1b00800000000000000
+      internalID: 800333020994257911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_104
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1064
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d319b0a928458f80800000000000000
+      internalID: -8104992610755996713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_105
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1059
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591ac2df604313630800000000000000
+      internalID: 3904959556528939413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_106
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1005
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c46877ec403b8c0800000000000000
+      internalID: -3984835960477692922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 959
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf910ba6a574ff20800000000000000
+      internalID: 3455516172794044361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_108
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 957
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff03e623abad952e0800000000000000
+      internalID: -2136436054965735169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 958
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8639eabe21e6b50800000000000000
+      internalID: 6588224108345125025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 955
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ca46c70eca3afc0800000000000000
+      internalID: -3484751606495007718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 955
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf9694c28a7ef10800000000000000
+      internalID: 2298991042959637208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_112
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 955
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a942da9ef666a50800000000000000
+      internalID: 6514016960460921454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_113
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 941
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141dea3fb381fcdf0800000000000000
+      internalID: -157880816164220607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_114
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 951
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39a953a7ad20ff0800000000000000
+      internalID: -71254425664318482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_115
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 964
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bfd7611f8bd4940800000000000000
+      internalID: 5282081283579444110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_116
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 961
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba20b600609b9a0800000000000000
+      internalID: -6216931211743155343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_117
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 978
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2cb7271c0eaa1e0800000000000000
+      internalID: -2185687547680931164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_118
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 918
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34df4356bd79d40800000000000000
+      internalID: 5591178690130953167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_119
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 822
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48f287f70ccf660800000000000000
+      internalID: 7421017939709494523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 832
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3917c18318f11d670800000000000000
+      internalID: 8561659006460653971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 838
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098cf328ac391fc0800000000000000
+      internalID: -3523718540584777463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_122
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 867
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537cfd6664fd346e0800000000000000
+      internalID: -1854393128079866059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 871
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198abd4f611614b00800000000000000
+      internalID: 811036159128610961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_124
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 875
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004fbb4b6435643b0800000000000000
+      internalID: -5528639929405672448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_125
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 817
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df5da959d35bc170800000000000000
+      internalID: 8199739739535663065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_126
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 778
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e20e08346675b0800000000000000
+      internalID: -5370995313676721661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_127
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 778
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b163886b22126260800000000000000
+      internalID: 7089248741080916406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_128
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 786
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fb8339915561da0800000000000000
+      internalID: -5974494287327871163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_129
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 778
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba0fa74928faa20800000000000000
+      internalID: 3075820644746701639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_130
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 821
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3872f2b7a1fb941d0800000000000000
+      internalID: -3365949126025992317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_131
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 792
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd2011c744676e0800000000000000
+      internalID: -1840208098082234566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_132
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 734
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdafb2c1261805690800000000000000
+      internalID: -7615444711504086309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 725
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88fb32a9d3f25cd0800000000000000
+      internalID: -2570724321219839861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_134
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 741
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d7d3fa203e4ffe0800000000000000
+      internalID: -1156049603657892486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_135
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 707
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f5a8492eed2b50800000000000000
+      internalID: 6570169292483327865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 705
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20906f4c55e2a04b0800000000000000
+      internalID: -5473511451203860222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_137
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 691
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb856dde7b4e0b960800000000000000
+      internalID: 7615838448503904447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_138
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 711
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a95601d7ecb260800000000000000
+      internalID: 7114816396279260624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_139
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 726
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad94fbdf4de709880800000000000000
+      internalID: -8606239434649679398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_140
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 723
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aa8ca7fa7d52980800000000000000
+      internalID: -8564201967695910363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_141
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 720
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55a19c6954e9c490800000000000000
+      internalID: -7725392613052668580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_142
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 633
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1966b0ef3ec8a10800000000000000
+      internalID: 1913154621978087850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 641
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acedb2f438a521b0800000000000000
+      internalID: -5681950409493713756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_144
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 645
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073ab2ca504e842f0800000000000000
+      internalID: -988289405193313424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_145
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 686
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feb625271604ac40800000000000000
+      internalID: 5522545739540381433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_146
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 647
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e4af3b46a2abca0800000000000000
+      internalID: -6000436941513142643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_147
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 648
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e70a6b7f6209ef0800000000000000
+      internalID: -103539946066772411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_148
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 654
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d2b1136e5205a10800000000000000
+      internalID: 1896057113719549243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_149
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 651
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74640754b16f81340800000000000000
+      internalID: 4834884796971763271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_150
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 653
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edaf92ab3ca60b10800000000000000
+      internalID: 1947433261015739872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_151
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 623
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c208e2f58891d3f00800000000000000
+      internalID: 1098061957651398700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_152
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 616
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a826af51bf4b6c220800000000000000
+      internalID: 2505889233176781450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_153
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 583
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66820945f14946e50800000000000000
+      internalID: 6801724199519922278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_154
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 579
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25c140fe9e131e0800000000000000
+      internalID: -2219735928541523295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_155
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 580
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e9116e438f42570800000000000000
+      internalID: 8441144507681054313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_156
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 571
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140dac03d0a322690800000000000000
+      internalID: -7628470990484615103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_157
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 571
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0194380d14c65910800000000000000
+      internalID: 1825862327916073230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_158
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 565
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6973e9d1185250fc0800000000000000
+      internalID: -3529373496496998506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_159
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 547
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d876916ecd0fcf0800000000000000
+      internalID: -220433500914348675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_160
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 530
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51576b6b8b0d7bbf0800000000000000
+      internalID: -308548557693618923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_161
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 537
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721b323f898e4f7d0800000000000000
+      internalID: -2885425717625769689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_162
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 466
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42dc5d56c4912560800000000000000
+      internalID: 7287269251752972879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_163
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 475
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39a68926669baf0800000000000000
+      internalID: -380160119886146633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_164
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 478
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b5f8cff1b9e990800000000000000
+      internalID: -7356152804186673004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_165
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 479
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d9def6183d1d750800000000000000
+      internalID: 6328071504314342727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_166
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 480
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464e0169037cda40800000000000000
+      internalID: 5394312937803236935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_167
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 480
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7982d2890162e3530800000000000000
+      internalID: 3836545785280669847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_168
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 489
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12352c7962de6c40800000000000000
+      internalID: 5507570744816906779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_169
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 483
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c402608092ffc800800000000000000
+      internalID: 634992774925649089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_170
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 467
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b19f65cf7b51790800000000000000
+      internalID: -7559934105052701825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_171
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 427
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8bbf602440dcd0800000000000000
+      internalID: -2535451684105384637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_172
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 422
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39500dfc48a003030800000000000000
+      internalID: 3472286878241129875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_173
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 418
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3c2b11c2e05de0800000000000000
+      internalID: -1346326969571328811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_174
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 417
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddfcd4916f550b50800000000000000
+      internalID: 6558753305048972760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_175
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 420
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ccf0b5dd5e5bd10800000000000000
+      internalID: 2140869936762834015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_176
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 423
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fac42012d3b8800800000000000000
+      internalID: 615652986047999757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_177
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 420
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d56d9eaaf2abe0800000000000000
+      internalID: -1467334900697409804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_178
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 424
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15bde38cd1e76690800000000000000
+      internalID: -7608864708196715237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_179
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 427
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb147d3f62e398b0800000000000000
+      internalID: -5146520981754078221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_180
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 427
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048264b2cdd09f8b0800000000000000
+      internalID: -5118044262259873728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_181
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 421
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20827201429fd970800000000000000
+      internalID: 8781898606307344431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritePack_Master_SmartBlur_182
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 429
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428af8d5801000f90800000000000000
+      internalID: -6989585486237947868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpritePack_Master_SmartBlur_0: 7006876411901296149
+      SpritePack_Master_SmartBlur_1: 720346477307918071
+      SpritePack_Master_SmartBlur_10: -1134986896715187362
+      SpritePack_Master_SmartBlur_100: 5841498788298134180
+      SpritePack_Master_SmartBlur_101: -2319446720540706964
+      SpritePack_Master_SmartBlur_102: -4814970416069588125
+      SpritePack_Master_SmartBlur_103: 800333020994257911
+      SpritePack_Master_SmartBlur_104: -8104992610755996713
+      SpritePack_Master_SmartBlur_105: 3904959556528939413
+      SpritePack_Master_SmartBlur_106: -3984835960477692922
+      SpritePack_Master_SmartBlur_107: 3455516172794044361
+      SpritePack_Master_SmartBlur_108: -2136436054965735169
+      SpritePack_Master_SmartBlur_109: 6588224108345125025
+      SpritePack_Master_SmartBlur_11: -2771988805825276261
+      SpritePack_Master_SmartBlur_110: -3484751606495007718
+      SpritePack_Master_SmartBlur_111: 2298991042959637208
+      SpritePack_Master_SmartBlur_112: 6514016960460921454
+      SpritePack_Master_SmartBlur_113: -157880816164220607
+      SpritePack_Master_SmartBlur_114: -71254425664318482
+      SpritePack_Master_SmartBlur_115: 5282081283579444110
+      SpritePack_Master_SmartBlur_116: -6216931211743155343
+      SpritePack_Master_SmartBlur_117: -2185687547680931164
+      SpritePack_Master_SmartBlur_118: 5591178690130953167
+      SpritePack_Master_SmartBlur_119: 7421017939709494523
+      SpritePack_Master_SmartBlur_12: -728437276149168172
+      SpritePack_Master_SmartBlur_120: 8561659006460653971
+      SpritePack_Master_SmartBlur_121: -3523718540584777463
+      SpritePack_Master_SmartBlur_122: -1854393128079866059
+      SpritePack_Master_SmartBlur_123: 811036159128610961
+      SpritePack_Master_SmartBlur_124: -5528639929405672448
+      SpritePack_Master_SmartBlur_125: 8199739739535663065
+      SpritePack_Master_SmartBlur_126: -5370995313676721661
+      SpritePack_Master_SmartBlur_127: 7089248741080916406
+      SpritePack_Master_SmartBlur_128: -5974494287327871163
+      SpritePack_Master_SmartBlur_129: 3075820644746701639
+      SpritePack_Master_SmartBlur_13: 8846206843549359136
+      SpritePack_Master_SmartBlur_130: -3365949126025992317
+      SpritePack_Master_SmartBlur_131: -1840208098082234566
+      SpritePack_Master_SmartBlur_132: -7615444711504086309
+      SpritePack_Master_SmartBlur_133: -2570724321219839861
+      SpritePack_Master_SmartBlur_134: -1156049603657892486
+      SpritePack_Master_SmartBlur_135: 6570169292483327865
+      SpritePack_Master_SmartBlur_136: -5473511451203860222
+      SpritePack_Master_SmartBlur_137: 7615838448503904447
+      SpritePack_Master_SmartBlur_138: 7114816396279260624
+      SpritePack_Master_SmartBlur_139: -8606239434649679398
+      SpritePack_Master_SmartBlur_14: -4644792087809610655
+      SpritePack_Master_SmartBlur_140: -8564201967695910363
+      SpritePack_Master_SmartBlur_141: -7725392613052668580
+      SpritePack_Master_SmartBlur_142: 1913154621978087850
+      SpritePack_Master_SmartBlur_143: -5681950409493713756
+      SpritePack_Master_SmartBlur_144: -988289405193313424
+      SpritePack_Master_SmartBlur_145: 5522545739540381433
+      SpritePack_Master_SmartBlur_146: -6000436941513142643
+      SpritePack_Master_SmartBlur_147: -103539946066772411
+      SpritePack_Master_SmartBlur_148: 1896057113719549243
+      SpritePack_Master_SmartBlur_149: 4834884796971763271
+      SpritePack_Master_SmartBlur_15: -7848215355025010457
+      SpritePack_Master_SmartBlur_150: 1947433261015739872
+      SpritePack_Master_SmartBlur_151: 1098061957651398700
+      SpritePack_Master_SmartBlur_152: 2505889233176781450
+      SpritePack_Master_SmartBlur_153: 6801724199519922278
+      SpritePack_Master_SmartBlur_154: -2219735928541523295
+      SpritePack_Master_SmartBlur_155: 8441144507681054313
+      SpritePack_Master_SmartBlur_156: -7628470990484615103
+      SpritePack_Master_SmartBlur_157: 1825862327916073230
+      SpritePack_Master_SmartBlur_158: -3529373496496998506
+      SpritePack_Master_SmartBlur_159: -220433500914348675
+      SpritePack_Master_SmartBlur_16: 8876240882286021727
+      SpritePack_Master_SmartBlur_160: -308548557693618923
+      SpritePack_Master_SmartBlur_161: -2885425717625769689
+      SpritePack_Master_SmartBlur_162: 7287269251752972879
+      SpritePack_Master_SmartBlur_163: -380160119886146633
+      SpritePack_Master_SmartBlur_164: -7356152804186673004
+      SpritePack_Master_SmartBlur_165: 6328071504314342727
+      SpritePack_Master_SmartBlur_166: 5394312937803236935
+      SpritePack_Master_SmartBlur_167: 3836545785280669847
+      SpritePack_Master_SmartBlur_168: 5507570744816906779
+      SpritePack_Master_SmartBlur_169: 634992774925649089
+      SpritePack_Master_SmartBlur_17: -7437451315309661612
+      SpritePack_Master_SmartBlur_170: -7559934105052701825
+      SpritePack_Master_SmartBlur_171: -2535451684105384637
+      SpritePack_Master_SmartBlur_172: 3472286878241129875
+      SpritePack_Master_SmartBlur_173: -1346326969571328811
+      SpritePack_Master_SmartBlur_174: 6558753305048972760
+      SpritePack_Master_SmartBlur_175: 2140869936762834015
+      SpritePack_Master_SmartBlur_176: 615652986047999757
+      SpritePack_Master_SmartBlur_177: -1467334900697409804
+      SpritePack_Master_SmartBlur_178: -7608864708196715237
+      SpritePack_Master_SmartBlur_179: -5146520981754078221
+      SpritePack_Master_SmartBlur_18: 8184159634185238388
+      SpritePack_Master_SmartBlur_180: -5118044262259873728
+      SpritePack_Master_SmartBlur_181: 8781898606307344431
+      SpritePack_Master_SmartBlur_182: -6989585486237947868
+      SpritePack_Master_SmartBlur_19: -1698787458828548777
+      SpritePack_Master_SmartBlur_2: -8341118243853215245
+      SpritePack_Master_SmartBlur_20: -1534284854257304366
+      SpritePack_Master_SmartBlur_21: 6237402991613026778
+      SpritePack_Master_SmartBlur_22: 700819874894192862
+      SpritePack_Master_SmartBlur_23: 63848387125570428
+      SpritePack_Master_SmartBlur_24: 8357009295816771008
+      SpritePack_Master_SmartBlur_25: -963525243533635392
+      SpritePack_Master_SmartBlur_26: 8837667166374123066
+      SpritePack_Master_SmartBlur_27: -7602884023377642255
+      SpritePack_Master_SmartBlur_28: -8499211074419464928
+      SpritePack_Master_SmartBlur_29: -2297029979225512338
+      SpritePack_Master_SmartBlur_3: 6298661776059454660
+      SpritePack_Master_SmartBlur_30: 4066343946345564146
+      SpritePack_Master_SmartBlur_31: -6493385847337308187
+      SpritePack_Master_SmartBlur_32: -663800854909782338
+      SpritePack_Master_SmartBlur_33: -2123663520310468149
+      SpritePack_Master_SmartBlur_34: 6875480791271483886
+      SpritePack_Master_SmartBlur_35: -7766465995762322833
+      SpritePack_Master_SmartBlur_36: 6174935484037551264
+      SpritePack_Master_SmartBlur_37: 7802971715519096481
+      SpritePack_Master_SmartBlur_38: 3779510805502128170
+      SpritePack_Master_SmartBlur_39: 7858690942743296630
+      SpritePack_Master_SmartBlur_4: 7205617393979661564
+      SpritePack_Master_SmartBlur_40: 4185657989725439504
+      SpritePack_Master_SmartBlur_41: -6011846341423910777
+      SpritePack_Master_SmartBlur_42: 2259463968016714440
+      SpritePack_Master_SmartBlur_43: -5643476409547134318
+      SpritePack_Master_SmartBlur_44: -4379053585284727354
+      SpritePack_Master_SmartBlur_45: -390464831925281069
+      SpritePack_Master_SmartBlur_46: 289912588971056318
+      SpritePack_Master_SmartBlur_47: 1756237610852013053
+      SpritePack_Master_SmartBlur_48: 3537901166051509446
+      SpritePack_Master_SmartBlur_49: -8777220688705236402
+      SpritePack_Master_SmartBlur_5: -8357555972092388077
+      SpritePack_Master_SmartBlur_50: 1301867672841251926
+      SpritePack_Master_SmartBlur_51: 5848125969241832307
+      SpritePack_Master_SmartBlur_52: 7371373752754019791
+      SpritePack_Master_SmartBlur_53: 7740655028190930587
+      SpritePack_Master_SmartBlur_54: 4738894903491525813
+      SpritePack_Master_SmartBlur_55: -5627549049897112433
+      SpritePack_Master_SmartBlur_56: -3369099496091970886
+      SpritePack_Master_SmartBlur_57: -6957545957673975863
+      SpritePack_Master_SmartBlur_58: -427602602963603780
+      SpritePack_Master_SmartBlur_59: -7361574780149079835
+      SpritePack_Master_SmartBlur_6: -2042251735422558453
+      SpritePack_Master_SmartBlur_60: -893232238452277248
+      SpritePack_Master_SmartBlur_61: -2698476431332581203
+      SpritePack_Master_SmartBlur_62: -4278918802345423420
+      SpritePack_Master_SmartBlur_63: 1541660295465122993
+      SpritePack_Master_SmartBlur_64: 1505721835072357826
+      SpritePack_Master_SmartBlur_65: -4833826041232520257
+      SpritePack_Master_SmartBlur_66: -3520425855378281597
+      SpritePack_Master_SmartBlur_67: 5012757528451622246
+      SpritePack_Master_SmartBlur_68: -1767478049795714308
+      SpritePack_Master_SmartBlur_69: 6154730649755262239
+      SpritePack_Master_SmartBlur_7: -7063161405401691678
+      SpritePack_Master_SmartBlur_70: 786598772206246425
+      SpritePack_Master_SmartBlur_71: 6367705828312648733
+      SpritePack_Master_SmartBlur_72: -5639967577450277161
+      SpritePack_Master_SmartBlur_73: -826513736037167074
+      SpritePack_Master_SmartBlur_74: 4279815222173167058
+      SpritePack_Master_SmartBlur_75: -1166595843905483615
+      SpritePack_Master_SmartBlur_76: 726454155072249640
+      SpritePack_Master_SmartBlur_77: 727785763677816623
+      SpritePack_Master_SmartBlur_78: 5399206318734247760
+      SpritePack_Master_SmartBlur_79: -4744470610612261103
+      SpritePack_Master_SmartBlur_8: 656588722134434625
+      SpritePack_Master_SmartBlur_80: 1617685398727516023
+      SpritePack_Master_SmartBlur_81: -2036120254823354012
+      SpritePack_Master_SmartBlur_82: -5902756276801380735
+      SpritePack_Master_SmartBlur_83: 2277975504270621637
+      SpritePack_Master_SmartBlur_84: -2615546153426348203
+      SpritePack_Master_SmartBlur_85: -1083526631664454999
+      SpritePack_Master_SmartBlur_86: -8478291817054980478
+      SpritePack_Master_SmartBlur_87: 2922670845853930703
+      SpritePack_Master_SmartBlur_88: -7933320079865188976
+      SpritePack_Master_SmartBlur_89: -2532273286590293866
+      SpritePack_Master_SmartBlur_9: -3881480233259845149
+      SpritePack_Master_SmartBlur_90: 6744762455349043380
+      SpritePack_Master_SmartBlur_91: 2370473290242396773
+      SpritePack_Master_SmartBlur_92: 5569148938192692621
+      SpritePack_Master_SmartBlur_93: 5104360543864552390
+      SpritePack_Master_SmartBlur_94: -5811555281010160864
+      SpritePack_Master_SmartBlur_95: -5783512593635820430
+      SpritePack_Master_SmartBlur_96: 6979638943226112916
+      SpritePack_Master_SmartBlur_97: -1533935835912067983
+      SpritePack_Master_SmartBlur_98: 2440681627448135704
+      SpritePack_Master_SmartBlur_99: -2870035718023037783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
