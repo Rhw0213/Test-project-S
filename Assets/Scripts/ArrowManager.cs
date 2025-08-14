@@ -8,7 +8,7 @@ public class ArrowManager : MonoBehaviour
     private List<GameObject> arrows = new List<GameObject>();
     private int arrowIndex = 0;
 
-    void Start()
+    void Awake()
     {
         for (int i = 0; i < 10; i++)
         {
@@ -29,5 +29,4 @@ public class ArrowManager : MonoBehaviour
             }
         }
     }
-
 }

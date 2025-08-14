@@ -8,6 +8,8 @@ TagManager:
   - box
   - Enemy
   - Arrow
+  - Skill
+  - HpBar
   layers:
   - Default
   - TransparentFX

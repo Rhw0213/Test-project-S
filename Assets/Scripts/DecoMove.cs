@@ -1,31 +1,56 @@
+using TMPro;
 using UnityEngine;
 
 public class DecoMove : MonoBehaviour
 {
-    private Player player;
+    private CameraController mainCamera;
+    private Transform cameraTransform;
+    private CharactorBehaviour player;
+    private float imageSizeHalfX;
+    private float imageSizeX;
+
+    [SerializeField]
+    private float moveRatio = 0.8f; 
 
     void Awake()
     {
-        player = GetComponentInParent<Background>().player.GetComponent<Player>();
+        cameraTransform = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraController>().gameObject.GetComponent<Transform>();
+        player = GetComponentInParent<Background>().player.GetComponent<CharactorBehaviour>();
+        imageSizeX = GetComponent<Renderer>().bounds.size.x - 0.2f;
+        imageSizeHalfX = imageSizeX * 0.5f;
     }
 
-    void Start()
+    private void Update()
     {
-        
     }
 
-    void Update()
+    void FixedUpdate()
     {
-        
-    }
 
-    public void FixedUpdate()
-    {
         if (player.Move.magnitude > 0)
         {
-            Vector3 move = player.Move * Time.fixedDeltaTime * 0.3f;
-            move.y = 0;
-            transform.position += move;
+            transform.position += player.Move * moveRatio * Time.deltaTime;
         }
+        //float cameraPositionX = cameraTransform.position.x;
+
+        //Vector3 move = cameraTransform.position * moveRatio;
+        //move.y = 0;
+        //move.z = 0;
+
+        //if (transform.position.x > cameraPositionX - imageSizeHalfX &&
+        //    transform.position.x < cameraPositionX + imageSizeHalfX)
+        //{
+        //    move.x = cameraPositionX;
+        //}
+        //if (transform.position.x <= cameraPositionX - imageSizeHalfX)
+        //{
+        //    move.x -= imageSizeX;
+        //}
+        //else if (transform.position.x >= cameraPositionX + imageSizeHalfX) 
+        //{
+        //    move.x += imageSizeX ;
+        //}
+
+        //    transform.position = move;
     }
 }
