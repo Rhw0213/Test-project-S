@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Project S - 접근 제한</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .login-container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+            display: block;
+        }
+
+        .protected-content {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            max-width: 900px;
+            width: 100%;
+            display: none;
+            position: relative;
+        }
+
+        .logo {
+            font-size: 4em;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2em;
+        }
+
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 600;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+
+        input[type="text"]:focus, input[type="password"]:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .login-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .login-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .error-message {
+            background: #fee;
+            color: #c33;
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .logout-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .unity-config {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid #667eea;
+        }
+
+        .config-code {
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            color: #495057;
+            word-break: break-all;
+            margin: 10px 0;
+        }
+
+        .copy-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 4px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            margin-left: 10px;
+        }
+
+        .info-box {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 로그인 화면 -->
+    <div class="login-container" id="loginContainer">
+        <div class="logo">🎮</div>
+        <h1>Test Project S</h1>
+        <p class="subtitle">팀원 전용 접근</p>
+        
+        <form id="loginForm">
+            <div class="input-group">
+                <label for="username">사용자명</label>
+                <input type="text" id="username" placeholder="팀원 ID 입력" required>
+            </div>
+            
+            <div class="input-group">
+                <label for="password">패스워드</label>
+                <input type="password" id="password" placeholder="비밀번호 입력" required>
+            </div>
+            
+            <button type="submit" class="login-btn">🔓 로그인</button>
+        </form>
+        
+        <div class="error-message" id="errorMessage">
+            잘못된 사용자명 또는 패스워드입니다.
+        </div>
+        
+        <div class="info-box">
+            <strong>테스트 계정:</strong><br>
+            • test / 1234<br>
+            • admin / admin<br>
+            • user / password
+        </div>
+    </div>
+
+    <!-- 보호된 컨텐츠 -->
+    <div class="protected-content" id="protectedContent">
+        <button class="logout-btn" onclick="logout()">로그아웃</button>
+        
+        <h1>🎮 Test Project S</h1>
+        <p class="subtitle">Unity Addressables 에셋 관리</p>
+        
+        <!-- Unity 설정 정보 -->
+        <div class="unity-config">
+            <h3>🔧 Unity Addressables 설정</h3>
+            <p><strong>Remote Load Path:</strong></p>
+            <div class="config-code" id="loadPathUrl">
+                https://rhw0213.github.io/Test-project-S/addressables/[BuildTarget]/
+                <button class="copy-btn" onclick="copyToClipboard('loadPathUrl')">복사</button>
+            </div>
+            <p style="margin-top: 10px;"><strong>실제 주소 예시:</strong></p>
+            <div class="config-code">
+                Windows: .../addressables/StandaloneWindows64/<br>
+                Android: .../addressables/Android/<br>
+                iOS: .../addressables/iOS/
+            </div>
+        </div>
+
+        <div class="unity-config">
+            <h3>📁 에셋 업로드 방법</h3>
+            <p>1. Unity에서 Addressables 빌드</p>
+            <p>2. ServerData 폴더 내용을 GitHub의 addressables 폴더로 복사</p>
+            <p>3. 커밋 후 자동으로 배포됨</p>
+        </div>
+        
+        <div class="info-box">
+            <strong>🚀 다음 단계:</strong><br>
+            1. GitHub에 addressables 폴더 생성<br>
+            2. Unity에서 위 URL로 Remote Load Path 설정<br>
+            3. 에셋을 Addressable로 마킹<br>
+            4. 빌드 후 GitHub에 업로드
+        </div>
+    </div>
+
+    <script>
+        // 사용자 계정 (여기서 수정 가능)
+        const validUsers = {
+            'test': '1234',
+            'admin': 'admin',
+            'user': 'password',
+            'team1': 'project2024',
+            'team2': 'project2024'
+        };
+
+        // 페이지 로드 시 로그인 상태 확인
+        window.addEventListener('load', function() {
+            const savedUser = localStorage.getItem('authenticatedUser');
+            if (savedUser && validUsers[savedUser]) {
+                showProtectedContent(savedUser);
+            }
+        });
+
+        // 로그인 폼 처리
+        document.getElementById('loginForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const username = document.getElementById('username').value.trim();
+            const password = document.getElementById('password').value;
+            
+            if (validUsers[username] && validUsers[username] === password) {
+                localStorage.setItem('authenticatedUser', username);
+                showProtectedContent(username);
+            } else {
+                showError('잘못된 사용자명 또는 패스워드입니다.');
+            }
+        });
+
+        function showProtectedContent(username) {
+            document.getElementById('loginContainer').style.display = 'none';
+            document.getElementById('protectedContent').style.display = 'block';
+        }
+
+        function showError(message) {
+            const errorElement = document.getElementById('errorMessage');
+            errorElement.textContent = message;
+            errorElement.style.display = 'block';
+            setTimeout(() => {
+                errorElement.style.display = 'none';
+            }, 4000);
+        }
+
+        function logout() {
+            localStorage.removeItem('authenticatedUser');
+            document.getElementById('loginContainer').style.display = 'block';
+            document.getElementById('protectedContent').style.display = 'none';
+            document.getElementById('loginForm').reset();
+        }
+
+        // 클립보드 복사
+        function copyToClipboard(elementId) {
+            const element = document.getElementById(elementId);
+            const text = element.textContent.replace('복사', '').trim();
+            
+            navigator.clipboard.writeText(text).then(function() {
+                alert('클립보드에 복사되었습니다!');
+            }).catch(function(err) {
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textArea);
+                alert('클립보드에 복사되었습니다!');
+            });
+        }
+    </script>
+</body>
+</html>
