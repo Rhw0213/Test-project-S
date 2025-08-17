@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Test-project-S(remote)
+  m_EditorClassIdentifier: 
+  m_GroupName: Test-project-S(remote)
+  m_GUID: 7a5d57a557fa1a641ac1348b1bfc7461
+  m_SerializeEntries:
+  - m_GUID: 360a162f254c33340b558496b56ecff3
+    m_Address: Assets/StreamingAssets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bef7414665b49346ad5bb42100bccec
+    m_Address: Assets/Animation/Character/hurt.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 37435e63633446747828a2af0cb00b3e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 60f2ce612349bd34585bad5f57f91590, type: 2}
+    - {fileID: 11400000, guid: 4456f2017e3b3df409339a50465eda0e, type: 2}
